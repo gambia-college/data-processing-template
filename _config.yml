@@ -14,3 +14,15 @@ exclude:
   - LICENSE
 
 ## ADD other settings below here
+plugins:
+  - jekyll-datapage-generator
+
+
+#datapage-genrator config
+page_gen-dirs: true
+
+page_gen:
+  - data: 'students-postings'
+    template: 'student'
+    name: 'stu-name'
+    dir: 'students'
