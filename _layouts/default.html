@@ -1,0 +1,23 @@
+<!--  In the name of God, the Most Gracious, the Most Merciful -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+      <header class="header">
+        {% include utilities/header.html %}
+      </header>
+
+      <main id="main" class="main">
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        {% include utilities/footer.html %}
+      </footer>
+    
+    <!-- Scripts -->
+    <script src="{% link /assets/scripts/main.js %}"></script>
+  </body>
+</html>

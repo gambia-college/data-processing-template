@@ -1,0 +1,16 @@
+# Site settings
+title: Data
+permalink: pretty
+
+# Build Settings
+exclude:
+  - package.json
+  - README.md
+  - CNAME
+  - public/sass
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - LICENSE
+
+## ADD other settings below here
