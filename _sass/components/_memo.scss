@@ -1,0 +1,82 @@
+.memo {
+  max-width: 210mm;
+  margin: 0 auto;
+  line-height: 1.3;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 11pt;
+  position: relative;
+  background-color: #fff;
+  padding: 20px;
+
+  > * + * {
+      margin-top: 32px;
+  }
+}
+
+.memo__header {
+    text-align: center;
+}
+
+.memo__brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.memo__logo {
+  margin: 0;
+  display: flex;
+  width: 60px;
+  overflow: hidden;
+  img {
+      margin: auto;
+      display: block;
+  }
+}
+
+.memo__details {
+
+}
+
+.memo__title {
+    margin: 0;
+    font-size: 18pt;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.memo__sub-title {
+    font-size: 14pt;
+    text-transform: uppercase;
+    font-style: normal;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.memo__sub-brand {
+    text-align: center;
+}
+
+.memo__address-line {
+  font-size: 12pt;
+}
+
+.memo__receiver {
+  margin-top: 24px;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.memo__sub-brand-title {
+  font-family: 'Old English Text MT', Georgia, 'Times New Roman', Times, serif;
+  font-size: 14pt;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+  margin-top: 30px;
+}
+
+.memo__body {
+  margin-top: 24px;
+  line-height: 1.5;
+}
