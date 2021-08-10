@@ -27,7 +27,7 @@ plugins:
 page_gen-dirs: true
 
 page_gen:
-  - data: 'students-postings'
+  - data: 'sample'
     template: 'student'
-    name: 'stu-name'
+    name: 'gc'
     dir: 'students'

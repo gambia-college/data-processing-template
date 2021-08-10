@@ -10,8 +10,8 @@ title: Postings
 </p>
 
 <ul class="c-list with-gaps">
-{% for program in site.programmes %}
-    
+    {% for program in site.programmes %}
+
     <li>
         <h2 class="title">
             {{ program.title }}
@@ -20,8 +20,6 @@ title: Postings
             Click here to see your grades
         </a>
     </li>
-   
-{% endfor %}
+
+    {% endfor %}
 </ul>
-
-
