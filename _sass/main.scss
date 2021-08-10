@@ -30,6 +30,12 @@
 // @import "./components/lists/list";
 @import "./components/cta";
 @import "./components/program-tabbed";
+@import "./components/memo";
+
+
+
+
+
 .c-list {
     > li {
         display: flex;
@@ -89,7 +95,6 @@ main .o-contain {
         }
     }
 }
-
 
 .c-program-tabbed {
     //padding-top: 80px;
