@@ -1,0 +1,15 @@
+blockquote {
+margin-left: calc(2 * var(--base-spacing-unit));
+position: relative;
+font-family: "Georgia", serif;
+font-size: var(--font-size-lead);
+
+    &::before {
+        content: "\201C";
+        position: absolute;
+        color: var(--gray);
+        font-size: 96px;
+        top: 0;
+        left: 0;
+    }
+}

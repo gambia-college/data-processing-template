@@ -1,0 +1,12 @@
+.u-highlight-white-pad {
+    background-color: var(--white);
+    padding: var(--base-spacing-unit);
+
+    & :last-child {
+        margin-bottom: 0;
+    }
+}
+
+.u-highlight-white {
+    background-color: var(--white);
+}

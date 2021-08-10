@@ -1,0 +1,49 @@
+.c-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 56px;
+    padding: var(--base-spacing-unit-medium) var(--base-spacing-unit-large);
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;   
+    font-weight: bold;
+    color: inherit;
+    transition: background 0.1s cubic-bezier(0.4, 0, 0.2, 1);
+    -webkit-appearance: none;
+
+
+    // always margin left the second child in a cta
+    > * + * {
+        margin-left: var(--base-spacing-unit-medium);
+    }
+}
+
+
+
+
+
+
+// * Modifiers
+// Primary cta - use a different color fill
+.c-cta--primary {
+    background-color: var(--primary);
+    color: var(--white);
+    &:hover,
+    &:focus {
+        background-color: var(--primary-darkest);
+    }
+}
+
+// Secondary cta - use a different color fill
+.c-cta--secondary {
+   border: 1px solid var(--primary);
+    color: vvar(--primary);
+    &:hover,
+    &:focus {
+        background-color: var(--primary-darkest);
+        color: var(--white);
+    }
+}

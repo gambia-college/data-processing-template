@@ -1,0 +1,133 @@
+
+:root {
+    // * Base line-height 
+    --base-line-height: 1.75; // 28px
+
+    // Spacing Methods within layouts and components.
+    --base-spacing-unit: 1.75rem;
+    --base-spacing-unit-tiny: 0.5rem;       // 8px
+    --base-spacing-unit-small: 0.75rem;    // 12px
+    --base-spacing-unit-medium: 1rem;       // 16px
+    --base-spacing-unit-large: 2rem;        // 32px
+    --base-spacing-unit-huge: 4rem;         // 64px
+
+    // Container widths
+    --contain-width-tiny: 37.5rem;    // 600px 
+    --contain-width-small: 50rem;      // 800px
+    --contain-width-medium: 64rem;      // 1024px
+    --contain-width-large: 80rem;      // 1280px 
+    --contain-width-larger: 90rem;      // 1440px 
+    --contain-width-largest: 120rem;     // 1920px
+
+
+
+    // * Typography
+
+    // typefaces
+    --font-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    --font-secondary: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    --font-code: "Fira Code", "Courier New", Courier, monospace;
+
+    // font sizes
+    --font-size-body: 1rem;         // 16px
+    --font-size-body-tiny: 0.75rem;    // 12px
+    --font-size-body-small: 0.875rem;   // 14px
+    --font-size-body-large: 1.188rem;    // 19px
+    
+    --font-size-lead: 1.250rem; // 20px
+
+    --font-size-heading-small: 1.5rem;      // 24px
+    --font-size-heading-medium: 1.75rem;    // 28px
+    --font-size-heading-large: 2.25rem;     // 36px
+    --font-size-heading-larger: 3rem;       // 48px
+    --font-size-heading-largest: 4rem;      // 64px
+
+
+
+    // * Colors
+
+    // Neutrals
+    --gray-darkest: #212121;
+    --gray-darker: #424242;
+    --gray-dark: #757575;
+    --gray: #bdbdbd;
+    --gray-light: #e5e5e5;
+    --gray-lighter: #f5f5f5;
+    --gray-lightest: #fafafa;
+
+    --white: hsl(0, 0%, 100%);
+    --black: hsl(0, 0%, 0%);
+
+    // * transparent backgrounds
+    --tp-black-light: rgba(0, 0, 0, 0.3);
+    --tp-black-medium: rgba(0, 0, 0, 0.5);
+    --tp-black-dark: rgba(0, 0, 0, 0.7);
+
+    // * Accent
+    --red-darkest: #b71c1c;
+    --red-dark: #d32f2f;
+    --red: #f44336;
+    --red-light: #e57373;
+    --red-lighter: #ffcdd2;
+    --red-lightest: #ffebee;
+
+    --green-darkest: #1b5e20;
+    --green-dark: #388e3c;
+    --green: #4caf50;
+    --green-light: #81c784;
+    --green-lighter: #c8e6c9;
+    --green-lightest: #e8f5e9;
+
+    --blue-darkest: #0d47a1;
+    --blue-dark: #1976d2;
+    --blue: #2196f3;
+    --blue-light: #64b5f6;
+    --blue-lighter: #bbdefb;
+    --blue-lightest: #e3f2fd;
+
+    --teal-darkest: #004d40;
+    --teal-dark: #00796b;
+    --teal: #009688;
+    --teal-light: #4db6ac;
+    --teal-lighter: #b2dfdb;
+    --teal-lightest: #e0f2f1;
+
+    --orange-darkest: #e65100;
+    --orange-dark: #f57c00;
+    --orange: #ff9800;
+    --orange-light: #ffb74d;
+    --orange-lighter: #ffe0b2;
+    --orange-lightest: #fffde7;
+
+    --yellow-darkest: #f57f17;
+    --yellow-dark: #fbc02d;
+    --yellow: #ffeb3b;
+    --yellow-light: #fff176;
+    --yellow-lighter: #fff9c4;
+    --yellow-lightest: #fffde7;
+
+
+    
+    // * Z-Index layers
+    --layer-modal-content: 8;
+    --layer-modal: 7;
+    --layer-overlay: 6;
+    --layer-dropdown: 5;
+    --layer-navbar: 4;
+    --layer-surface: 3;
+    --layer-forward: 2;
+    --layer-backward: 1;
+    --layer-negative: 0;
+
+    
+
+    background-color: var(--gray-light);
+    color: var(--gray-darkest);
+    font-feature-settings: "kern";
+    font-kerning: normal;
+    font-family: var(--font-primary);
+    font-size: var(--font-size-body);
+    line-height: var(--base-line-height);
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}

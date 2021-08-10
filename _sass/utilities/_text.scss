@@ -1,0 +1,35 @@
+.u-text-muted {
+  color: var(--gray-dark);
+}
+
+.u-upcase {
+  text-transform: uppercase;
+}
+
+
+// Caption for headings
+.u-caption {
+    display: block;
+  
+    // * modifiers
+    &--headline {
+      color: var(--gray-dark);
+      font-size: var(--font-size-body-l);
+    }
+  
+    // use for news/events/stories and so
+    &--tag {
+      margin-bottom: var(--base-spacing-unit-tiny);
+      font-weight: bold;
+      font-size: var(--font-size-body-tiny);
+      text-transform: uppercase;
+      color: var(--gray-dark);
+    }
+  
+    // numbers captions  for bold numbers
+    &--number {
+      line-height: 1.5;
+      font-size: var(--font-size-heading-small);
+      font-weight: bold;
+    }
+}

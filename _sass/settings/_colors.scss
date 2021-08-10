@@ -1,0 +1,45 @@
+html[data-theme='college'] {
+    --primary-darkest: #000034;
+    --primary-dark: #081e55;
+    --primary: #172c66;
+    --primary-light: #5b658e;
+    --primary-lightest: #b6bacf;
+
+    --secondary-darkest: #ff6d00;
+    --secondary-dark: #ffa100;
+    --secondary: #ffc300;
+    --secondary-light: #ffd743;
+    --secondary-lightest: #ffedb0;
+}
+
+html[data-theme='sph'] {
+    --primary-darkest: #002078;
+    --primary-dark: #00328d;
+    --primary: #053b99;
+    --primary-light: #1e4cae;
+    --primary-lightest: #6c81c5;
+}
+
+html[data-theme='snm'] {
+    --primary-darkest: #a23c90;
+    --primary-dark: #a23c90;
+    --primary: #a23c90;
+    --primary-light: #a23c90;
+    --primary-lightest: #a23c90;
+}
+
+html[data-theme='sag'] {
+    --primary-darkest: #1ea471;
+    --primary-dark: #1ea471;
+    --primary: #1ea471;
+    --primary-light: #1ea471;
+    --primary-lightest: #1ea471;
+}
+
+html[data-theme='sed'] {
+    --primary-darkest: #000000;
+    --primary-dark: #434343;
+    --primary: #7b7b7b;
+    --primary-light: #c4c4c4;
+    --primary-lightest: #e9e9e9;
+}

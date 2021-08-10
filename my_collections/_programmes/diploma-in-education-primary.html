@@ -1,0 +1,71 @@
+---
+layout: default-alt
+title: Diploma in Education Primary
+---
+
+<h1>
+    {{ page.title }}
+</h1>
+
+{% include banner.html %}
+
+<table id="table_posting" class="data-table">
+    <thead>
+        <tr>
+            <th>
+             NO
+            </th>
+            <th>
+             LAST NAME
+            </th>
+            <th>
+                INIT
+            </th>
+            <th>
+             FIRST NAME
+            </th>
+            <th>
+                GC NUMBER
+            </th>
+            <th>
+                PHONE
+            </th>
+            <th>
+             PROGRAMME
+            </th>
+            <th>
+             MEMO
+            </th>
+         </tr>
+    </thead>
+    <tbody>
+        {% for grade in site.data.sample %}
+        <tr>
+            <td>
+             {{ grade.no }}
+            </td>
+            <td class="blur">
+             {{ grade.lname }}
+            </td>
+            <td class="blur">
+             {{ grade.inti }}
+            </td>
+            <td>
+             {{ grade.gc }}
+            </td>
+            <td>
+             {{ grade.phone }}
+            </td>
+            <td>
+             Dip in Edu Primary
+            </td>
+            <td>
+             {{ grade.b }}
+            </td>
+            <td>
+            link
+            </td>
+         </tr>
+        {% endfor %}
+    </tbody>
+</table>

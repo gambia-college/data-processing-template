@@ -1,0 +1,19 @@
+table {
+    // table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--white);
+}
+
+td, th {
+    padding: var(--base-spacing-unit-tiny);
+    text-align: left;
+}
+
+caption {
+    caption-side: bottom;
+    text-align: right;
+    font-style: italic;
+    padding: var(--base-spacing-unit-tiny);
+    color: var(--gray-dark);
+}

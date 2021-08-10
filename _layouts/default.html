@@ -5,19 +5,18 @@
     <link rel="stylesheet" href="/assets/css/style.css">
   </head>
   <body>
-      <header class="header">
-        {% include utilities/header.html %}
-      </header>
-
-      <main id="main" class="main">
-        {{ content }}
-      </main>
-
-      <footer class="footer">
-        {% include utilities/footer.html %}
-      </footer>
+      <div class="page">
+          <header class="header">
+            {% include utilities/header.html %}
+          </header>
     
-    <!-- Scripts -->
-    <script src="{% link /assets/scripts/main.js %}"></script>
+          <main id="main" class="main">
+            {{ content }}
+          </main>
+    
+          <footer class="footer">
+            {% include utilities/footer.html %}
+          </footer>
+      </div>
   </body>
 </html>

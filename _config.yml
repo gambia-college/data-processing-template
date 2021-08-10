@@ -13,6 +13,11 @@ exclude:
   - Guardfile
   - LICENSE
 
+collections_dir: my_collections
+collections:
+  programmes:
+    output: true
+
 ## ADD other settings below here
 plugins:
   - jekyll-datapage-generator

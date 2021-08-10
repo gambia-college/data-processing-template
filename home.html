@@ -1,0 +1,27 @@
+---
+layout: default-alt
+title: Postings
+---
+<h1>
+    Programs
+</h1>
+<p>
+    Please choose your program below to proceed
+</p>
+
+<ul class="c-list with-gaps">
+{% for program in site.programmes %}
+    
+    <li>
+        <h2 class="title">
+            {{ program.title }}
+        </h2>
+        <a class="c-cta" href="{{ program.url }}">
+            Click here to see your grades
+        </a>
+    </li>
+   
+{% endfor %}
+</ul>
+
+

@@ -1,0 +1,47 @@
+.o-contain {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 16px;
+    padding-left: 16px;
+
+    .o-contain {
+        padding: 0;
+    }
+}
+
+
+
+
+
+// * Modifiers
+.o-contain--tiny {
+    max-width: var(--contain-width-tiny);
+}
+
+.o-contain--small {
+    max-width: var(--contain-width-small);
+}
+
+.o-contain--medium {
+    max-width: var(--contain-width-medium);
+}
+
+.o-contain--large {
+    max-width: var(--contain-width-large);
+}
+
+.o-contain--larger {
+    max-width: var(--contain-width-larger);
+}
+
+
+
+
+
+// * States
+.o-contain.with-vr-gap {
+    > * + * {
+        margin-top: var(--base-spacing-unit-huge);
+    }
+}
+

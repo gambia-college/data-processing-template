@@ -1,0 +1,84 @@
+    .c-program-tabbed__header {
+        box-shadow: 0 0 1px 1px var(--gray-light);
+        background-color: var(--white);
+    }
+
+        .c-program-tabbed__tabs {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+            .c-program-tabbed__tab {
+                padding: var(--base-spacing-unit-small);
+                color: inherit;
+                text-decoration: none;
+                display: block;
+                text-transform: uppercase;
+                font-size: var(--base-spacing-unit-small);
+
+                &:hover {
+                    background-color: var(--gray-lightest);
+                }
+
+                &[aria-selected="true"] {
+                    background-color: var(--gray-lightest);
+                    color: var(--primary);
+                    font-weight: bold;
+                    border-top: 4px solid var(--primary);
+                    position: relative;
+                    bottom: -2px;
+                }
+            }
+
+    .c-program-tabbed__main {
+        padding-top: var(--base-spacing-unit-large);
+        padding-bottom: var(--base-spacing-unit-large);
+    }
+
+        .c-program-tabbed__content {
+            //display: grid;
+            //gap: calc(2 * var(--base-spacing-unit-large));
+
+            // misc 
+            aside {
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+
+            .c-cover {
+                margin-bottom: var(--base-spacing-unit-large);
+            }
+        } 
+
+
+
+
+
+
+
+
+// * MQs
+@include respond(medium-small) {
+    .c-program-tabbed__tab {
+        padding: var(--base-spacing-unit-medium) var(--base-spacing-unit-large);
+    }
+
+    .c-program-tabbed__main {
+        padding-top: calc(2 * var(--base-spacing-unit-large));
+        padding-bottom: calc(2 * var(--base-spacing-unit-large));
+    }
+
+    .c-program-tabbed__content {
+        //grid-template-columns: 1.5fr 1fr;
+
+        // States
+        .is-full {
+            grid-column: 1 / span 2;
+        }
+    }
+
+      
+
+
+} // 1024px

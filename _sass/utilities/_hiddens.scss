@@ -1,0 +1,30 @@
+.u-skip-nav  {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    background-color: var(--white);
+    border: 2px solid var(--gray-darkest);
+    color: var(--gray-darkest);
+    padding: var(--base-spacing-unit-small) var(--base-spacing-unit-medium);
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background-color .3s ease-in-out,color .3s ease-in-out;
+}
+
+.u-hide-visually {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}

@@ -1,0 +1,34 @@
+/**
+ *  Base settings
+ */
+body {
+   font-size: 1em; //TODO the reason as a comment 
+}
+
+
+
+
+
+
+/**
+ *  A consistent vertical rhythm using the base line-height
+ */
+ h1, h2, h3, h4, h5, h6,
+ ul, ol, dl,
+ blockquote, p, address,
+ hr,
+ table,
+ fieldset, figure,
+ pre {
+   margin-bottom: var(--base-spacing-unit);
+ }
+ 
+
+
+
+
+@include respond(medium-large) {
+   body {
+      font-size: var(--font-size-body-large);
+   }
+} // 1280px

@@ -1,0 +1,31 @@
+
+
+
+
+
+
+// * Modifiers
+.c-table--bottom-bordered {
+
+    thead {
+        tr {
+            border-bottom: 1px solid var(--gray-light);
+        }
+    }
+
+    tfoot {
+        tr {
+            border-top: 1px solid var(--gray-light);
+        }
+    }
+
+    tbody {
+        > * + * {
+            border-top: 1px solid var(--gray-lighter);
+        }
+    }
+
+    th, td {
+        padding: var(--base-spacing-unit-small);
+    }
+}
