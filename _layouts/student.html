@@ -59,7 +59,7 @@ title: 2021 TP Memo
                 As a specialist in
                 <strong>
                     {{ page.major1 | capitalize }}
-                </strong>
+                </strong> s/he has chosen your school for <strong>Teaching Practice (TP)</strong>.
 
                 {% elsif major1 != "" %}
                 As a specialist in
@@ -69,8 +69,11 @@ title: 2021 TP Memo
                 and
                 <strong>
                     {{page.major2 | capitalize }}
-                </strong>,
-                {% endif %} s/he has chosen your school for <strong>Teaching Practice (TP)</strong>.
+                </strong>, s/he has chosen your school for <strong>Teaching Practice (TP)</strong>.
+
+                {%else%}
+                 S/He has chosen your school for <strong>Teaching Practice (TP)</strong>.
+                {% endif %}
 
             </p>
 
