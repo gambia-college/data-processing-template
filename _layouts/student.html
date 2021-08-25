@@ -30,46 +30,69 @@ title: 2021 TP Memo
 
     <div class="memo__details">
         <time datetime="">
-            10<sup>th</sup> August, 2021
+            6<sup>th</sup> September, 2021
         </time>
 
         <address class="memo__receiver">
             The Principal/Head Teacher <br>
-            Bakoteh LBS <br>
-            Region 5
+            {% assign words = page.fchoice | split: ' ' %}
+            {% capture fchoice %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}
+
+            {{ fchoice }}<br>
+            {{ page.region1 }}
         </address>
 
         <div class="memo__body">
             <p>
                 I write with great pleasure to inform you that
                 <strong>
-                    {{page.fname}} {{page.lname}},
+                    {{ page.stu-name }} {{ page.initial }} {{ page.stu-last }},
                 </strong>
+                is a student of The Gambia College,
                 pursuing
                 <strong>
-                    {{page.program}}
-                </strong> is a
-                Teacher Trainee from the Gambia College, School of Education.
+                    {{ page.programme }}
+                </strong>
+                under the School of Education.
+                {% assign major1 = page.major1 | downcase%}
+                {% assign major2 = page.major2 | downcase%}
+                {% if major1 != "" and major1 == major2 or major2 == "" %}
+                As a specialist in
+                <strong>
+                    {{ page.major1 | capitalize }}
+                </strong>
 
-                {{page.fname}},
-                has chosen your School for Teaching Practice (TP).
-                The duration of this exercise shall be for only one term commencing in September 2021 and ending in December 2021.
+                {% elsif major1 != "" %}
+                As a specialist in
+                <strong>
+                    {{ page.major1 | capitalize }}
+                </strong>
+                and
+                <strong>
+                    {{page.major2 | capitalize }}
+                </strong>,
+                {% endif %} s/he has chosen your school for <strong>Teaching Practice (TP)</strong>.
+
             </p>
 
             <p>
-                Teaching practice is an integral component of teacher training at Gambia College because it avails and acquaints trainees with requisite skills, knowledge, and experience in practical teaching and learning.
+                <strong>The Teaching practice</strong> is an integral component of the Teacher Training Programme of the College because it avails and acquaints trainees with the requisite skills, knowledge and experience in practical teaching and learning. The trainee is supposed to be attached to a mentor.
             </p>
 
             <p>
-                Teacher trainees who chose to be at your school are therefore under your authority. Please kindly give them professional guidance and support. All teacher trainees are supposed to be attached to a mentor. Teacher trainees should only teach grades for which they are trained for. No trainee should leave his or her school after been observed without permission from the school authorities. This can lead to cancellation of observation grade following receipt of notification from the school authorities.
+                Please accept only trainees with a <strong>teaching practice memo</strong> from The Gambia College School of Education.
             </p>
 
             <p>
-                Teacher trainees are ambassadors of Gambia College, therefore, they are expected to be punctual, regular, professional, ethical, dutiful discipline, respectful, obedient, humble, sociable, hardworking and productive. In a nutshell, their character should be impeccable.
+                Once posted to your school, the college student is automatically under your authority. The trainee should not leave your school after being observed without permission as it can lead to cancellation of the observation grade.
             </p>
 
             <p>
-                On behalf of Gambia College administration, Head of School of Education and my committee members, I wish you good health, long life, peace, prosperity and successful completion of your teaching practice.
+                The trainee should abide by all professional ethics in accordance with the Civil Service Rules at all times.
+            </p>
+
+            <p>
+                On behalf of The Gambia College Administration, Head of School of Education and my committee members, I thank you for taking part in our Teacher Training Programme and look forward to your professional support and guidance to the trainee.
             </p>
         </div>
     </div>
@@ -79,7 +102,8 @@ title: 2021 TP Memo
             <strong>
                 Mr Ansumana M.S Keita
             </strong> <br>
-            Chairman, Teaching Practice Committee
+            Chairperson, Teaching Practice Committee <br>
+            Tel: 7048377/3700632/7706387/3188150
         </p>
     </footer>
 </div>

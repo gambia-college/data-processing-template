@@ -39,25 +39,30 @@ title: Diploma in Education Islamic
         </tr>
     </thead>
     <tbody>
-        {% for grade in site.data.sample %}
+        {% for grade in site.data.students-postings %}
 
-        {% assign prog = grade.program | downcase %}
+        {% assign prog = grade.programme | downcase %}
         {% assign title = page.title | downcase %}
 
         {% if prog == title %}
+
+        {% if grade.check == "TRUE" %}
+
+
+
 
         <tr>
             <td>
                 {{ grade.no }}
             </td>
             <td class="blur">
-                {{ grade.lname }}
+                {{ grade.stu-last }}
             </td>
             <td class="blur">
-                {{ grade.init }}
+                {{ grade.initial }}
             </td>
             <td>
-                {{ grade.fname }}
+                {{ grade.stu-name }}
             </td>
             <td>
                 {{ grade.gc }}
@@ -66,7 +71,7 @@ title: Diploma in Education Islamic
                 {{ grade.phone}}
             </td>
             <td>
-                {{ page.title }}
+                {{ grade.programme }}
             </td>
             <td>
                 <a href="{{ grade.gc | datapage_url: '/students' }}">
@@ -74,6 +79,7 @@ title: Diploma in Education Islamic
                 </a>
             </td>
         </tr>
+        {% endif %}
         {% endif %}
         {% endfor %}
     </tbody>
