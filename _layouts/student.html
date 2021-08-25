@@ -58,17 +58,17 @@ title: 2021 TP Memo
                 {% if major1 != "" and major1 == major2 or major2 == "" %}
                 As a specialist in
                 <strong>
-                    {{ page.major1 | capitalize }}
+                    {{ page.major1 | upcase }}
                 </strong> s/he has chosen your school for <strong>Teaching Practice (TP)</strong>.
 
                 {% elsif major1 != "" %}
                 As a specialist in
                 <strong>
-                    {{ page.major1 | capitalize }}
+                    {{ page.major1 | upcase }}
                 </strong>
                 and
                 <strong>
-                    {{page.major2 | capitalize }}
+                    {{page.major2 | upcase }}
                 </strong>, s/he has chosen your school for <strong>Teaching Practice (TP)</strong>.
 
                 {%else%}
