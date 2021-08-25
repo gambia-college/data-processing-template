@@ -48,14 +48,13 @@ title: 2021 TP Memo
                 <strong>
                     {{ page.stu-name }} {{ page.initial }} {{ page.stu-last }},
                 </strong>
-                is a student of The Gambia College,
-                pursuing
+                is a student of The Gambia College,  pursuing
                 <strong>
                     {{ page.programme }}
                 </strong>
                 under the School of Education.
-                {% assign major1 = page.major1 | downcase%}
-                {% assign major2 = page.major2 | downcase%}
+                {% assign major1 = page.major1 | downcase %}
+                {% assign major2 = page.major2 | downcase %}
                 {% if major1 != "" and major1 == major2 or major2 == "" %}
                 As a specialist in
                 <strong>

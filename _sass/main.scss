@@ -37,6 +37,10 @@
 
 
 .c-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    gap: 24px;
+
     > li {
         display: flex;
         flex-direction: column;
@@ -52,6 +56,8 @@
             font-size: 24px;
         }
     }
+
+    
 }
 
 .headline {
@@ -74,6 +80,14 @@
     }
 }
 
+.btn {
+    text-decoration: none;
+    border-radius: 50px;
+    color: #fff;
+    background-color: black;
+    padding: 8px 16px;
+}
+
 main .o-contain {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -87,6 +101,7 @@ main .o-contain {
     th, td {
        white-space: nowrap;
         border: 1px solid var(--gray-darkest);
+        padding: 16px;
     }
 
     tbody {
