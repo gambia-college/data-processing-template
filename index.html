@@ -1,13 +1,25 @@
 ---
-layout: default
-title: Data Processing
+layout: default-alt
+title: Postings
 ---
-<!-- <h1>
-  Data
+<h1>
+    Programs
 </h1>
+<p>
+    Please choose your program below to proceed
+</p>
 
-<ul>
-  {% for student in site.data.students-postings %}
-  <li><a href="{{ student.gc | datapage_url: 'students' }}">{{student.stu-name}}</a></li>
-  {% endfor %}
-</ul> -->
+<ul class="c-list with-gaps">
+    {% for program in site.programmes %}
+
+    <li>
+        <h2 class="title">
+            {{ program.title }}
+        </h2>
+        <a class="c-cta" href="{{ program.url }}">
+            Click here to proceed
+        </a>
+    </li>
+
+    {% endfor %}
+</ul>
