@@ -1,6 +1,6 @@
 check,date,stu-name,initial,stu-last,phone,gc,campus,programme,class,major1,major2,region1,cluster1,fchoice,region2,cluster2,schoice
 TRUE,7/14/2021 22:12:43,Jainaba,,Dampha,3415902,2021904,Brikama Campus,Diploma in Education Primary,B,,,Region 3,Abdoulie Gaye,Kerewan BCS,Region 2,Lamin Daranka,Lamin Daranka LBS
-TRUE,7/14/2021 22:22:51,Fatoumatta ,3559282,Ndow,7804641,2021409,Brikama Campus,Diploma in Education Primary,E class Room 5 ,,,Region 2,,,Region 2, Jabang    Madiana LBS ,Madiana LBS  
+TRUE,7/14/2021 22:22:51,Fatoumatta ,,Ndow,7804641,2021409,Brikama Campus,Diploma in Education Primary,E class Room 5 ,,,Region 2,,Jabang Madiana LBS ,Region 2,,Madiana LBS  
 TRUE,7/14/2021 22:25:45,Musa,O,Jatta,3588035,2021934,Brikama Campus,Diploma in Education Primary,O class group three,,,Region 2,Banyaka,Tujereng lbs,Region 2,Banyaka,Batakunkun
 TRUE,7/14/2021 22:25:29,Suwaibou,,Dem,7193511,20211319,Brikama Campus,Diploma in Education Primary,J class,,,Region 2,Busumbala Farato cluster ,Yalding BCS,Region 3,Essau cluster ,Medina Kanuma LBS 
 TRUE,7/14/2021 22:25:54,Fafa ,,Secka,3435692,2022824,Brikama Campus,Advanced Diploma in Education Secondary,P,S.E.S,P.H.E,Region 3,Ngayen Sanjal cluster 1,Ngayen Sanjal,Region 3,Ngayen Sanjal cluster 1,Ngayen Sanjal
@@ -8,7 +8,7 @@ TRUE,7/14/2021 22:26:49,Lamin,A,Saidykhan,3395889,20211086,Brikama Campus,Diplom
 TRUE,7/14/2021 22:29:18,Yankuba,,Jarju,3119536,2021451,Brikama Campus,Diploma in Education Primary,J.class,,,Region 2,Jabang,Jambur basic cycle school,Region 2,Busumbala farato,Busumbala farato
 TRUE,7/14/2021 22:30:45,Fatoumata ,,Camara ,5928011,2021484,Brikama Campus,Diploma in Education Primary,Class (c),,,Region 2,Brikama,Henriette lower basic school ,Region 2,Brikama,Kabafita lower basic school 
 TRUE,7/14/2021 22:36:23,Alieu,,Touray,3107960,2022432,Brikama Campus,Advanced Diploma in Education Secondary,I,Sciene,Agric,Region 1,,Kanifing east senior secondary school,Region 1,,Kanifing east senior secondary school
-TRUE,7/14/2021 22:34:56,Edrisa,NA,Jawo,3540808/7970808,2021183,Brikama Campus,Diploma in Education Primary,Class E (5),,,Region 1,Lamin Daranka,St.peter's LBS,Region 2,Brufut,Bijilo LBS
+TRUE,7/14/2021 22:34:56,Edrisa,,Jawo,3540808/7970808,2021183,Brikama Campus,Diploma in Education Primary,Class E (5),,,Region 1,Lamin Daranka,St.peter's LBS,Region 2,Brufut,Bijilo LBS
 TRUE,7/14/2021 22:36:44,Fatoumata,,Suwareh,5101229,2021903,Brikama Campus,Diploma in Education Primary,B,,,Region 2,,Lamin Daranka,Region 2,,
 TRUE,7/14/2021 22:39:06,Binta,,Jammeh,7816511 or 3356740,2021886,Brikama Campus,Diploma in Education Primary,Class D group 6,,,Region 2,Brikama ,Brikama Nema  LBS,Region 2,Jamisa,Jamisa LBS
 TRUE,7/14/2021 22:41:48,Rabiatou,,Jallow,5173077,20221149,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE,Region 4,Soma,Soma UB/SSS,Region 2,Lamin daranka,John Pickering UB/SSS
@@ -33,7 +33,7 @@ TRUE,7/15/2021 0:26:27,Fansainey ,,Korita,3567097,2021875,Brikama Campus,Diploma
 TRUE,7/15/2021 0:28:55,Fatoumata,,Konjira,2876445,2021401,Brikama Campus,Diploma in Education Islamic,Islamic A class,,,Region 2,Jalambang LBS,Jalambang,Region 2,Almedina LBS,Almedina
 TRUE,7/15/2021 0:33:50,Isatou,,Jallow,3419117,2023250,Brikama Campus,Diploma in Early Childhood Education,b,,,Region 5,Brikamaba,Sare futa,Region 5,Brikamaba,
 TRUE,7/15/2021 0:33:52,Lamin ,,Ceesay,7586036,2021238,Brikama Campus,Diploma in Education Primary,I class ,,,Region 4,Soma,Soma Lower Basic School ,Region 4,Soma,Soma Lower
-TRUE,7/15/2021 0:46:42,Sowe,3915494,Ida,3915494,2021566,Brikama Campus,Diploma in Education Primary,C ,,,Region 2,,Pirang,Region 2,,Kuloro
+TRUE,7/15/2021 0:46:42,Ida,,Sowe,3915494,2021566,Brikama Campus,Diploma in Education Primary,C ,,,Region 2,,Pirang,Region 2,,Kuloro
 TRUE,7/15/2021 1:03:28,Yorro,,Sidibeh,7263279,2021054,Brikama Campus,Diploma in Education Primary,J class,,,Region 3,NGAGA KEITA,FARAFENNI MAURITANI LBS,Region 3,NGAGA KEITA,FARAFENNI LBS
 TRUE,7/15/2021 1:14:09,Lamin,mk,sonko,5137642,20211030,Brikama Campus,Diploma in Education Primary,M class,,,Region 4,Jarra central distric,Jappineh  B C S,Region 2,Sanneh meneterng distric,Sanch ba primary
 TRUE,7/15/2021 1:15:36,Modou,Lamin,Jobe,3186494,2021830,Brikama Campus,Diploma in Education Primary,J ,,,Region 2,Banjulinding,Yundum Barracks Lower Basic School,Region 2,Banjulinding,Banjulinding Lower Basic School
@@ -42,7 +42,7 @@ TRUE,7/15/2021 2:06:08,LAMIN,B,CEESAY,3754043,2021023,Brikama Campus,Diploma in 
 TRUE,7/15/2021 2:33:08,Hawa ,,Bah,3254050,20211158,Brikama Campus,Diploma in Education Primary,NA,,,Region 2,,Jamisa loeel basic school,Region 2,,St James lower basic school
 TRUE,7/15/2021 7:32:50,Momodou,M,Bah,2947334,2022590,Brikama Campus,Advanced Diploma in Education Secondary,General F,Agric,Maths,Region 2,Bijilo Cluster,Interior Academy Basic cycle school,Region 2,Sanyang,Sanyang upper and senior secondary
 TRUE,7/15/2021 8:54:26,Kumba,O,Bayo,3176472,2021975,Brikama Campus,Diploma in Education Primary,room D,,,Region 1,West coast region,nama lower basic school,Region 1,West coast region,Brikama loerl basic school
-TRUE,7/15/2021 9:55:38,Fatou ,Matta,Marong,3474830,2021010,Brikama Campus,Diploma in Education Primary,Class E group 4,,,Region 2,Jabang,Jabang lower basic school ,Region 2,New yundum ,New yundum 
+TRUE,7/15/2021 9:55:38,Fatoumatta,,Marong,3474830,2021010,Brikama Campus,Diploma in Education Primary,Class E group 4,,,Region 2,Jabang,Jabang lower basic school ,Region 2,New yundum ,New yundum 
 TRUE,7/15/2021 10:31:51,MALICK,,CORR,3726924/7773987/5251554,20211038,Brikama Campus,Advanced Diploma in Education Primary,CLASS  B MRC,,,Region 3,,MBOLLET BA LBS,Region 3,,St micheal
 TRUE,7/15/2021 10:33:13,lamin ,k,sonko,2722540,20211408,Brikama Campus,Diploma in Education Primary,,,,Region 3,Albreda cluster,sika lower basic school,Region 3,Albreda cluster,Bakalarr lower basic school
 TRUE,7/15/2021 10:40:37,Abdoulie,,Ceesay,5932749,2021675,Brikama Campus,Diploma in Education Primary,Class(O) General Group,,,Region 6,Moddy ceesay,DIABUGU BATAPAH,Region 6,Modd ceesay,KURAW L.B.S
@@ -52,7 +52,7 @@ TRUE,7/15/2021 11:16:20,Fatou,M,Manneh,7984209,2021149,Brikama Campus,Diploma in
 TRUE,7/15/2021 11:19:15,SAIDOU,O,JAGNE,3726671,20221157,Brikama Campus,Advanced Diploma in Education Secondary,A,ENGLISH LANGUAGE,AGRICULTURAL SCIENCE,Region 2,NDEMBAN,KANUMA BASIC CYCLE,Region 2,LAMIN DARNKA,JOHN PICKERING COMPREHENSIVE UPPER AND SENIOR SECONDARY
 TRUE,7/15/2021 12:03:26,Haddy,,Krubally,3426927 /2099046,2022803,Brikama Campus,Advanced Diploma in Education Secondary,J,Home science,Sciences,Region 3,Albrede,Bakalar,Region 3,Albrede,Bakalar
 TRUE,7/15/2021 12:14:09,Kaddy,,Bojang,5266402,2021421,Brikama Campus,Diploma in Education Primary,E mrch ,,,Region 2,Banyaka,Jambanjelly Lower Basic School,Region 2,Banyaka,Sanyang Lower Basic School
-TRUE,7/15/2021 13:00:35,Isatou,No,Darboe,3793778,2021898,Brikama Campus,Diploma in Education Primary,B,,,Region 2,Old yundum,Sinchu baliya LBS,Region 6,Moddy,Darsilameh BCS
+TRUE,7/15/2021 13:00:35,Isatou,,Darboe,3793778,2021898,Brikama Campus,Diploma in Education Primary,B,,,Region 2,Old yundum,Sinchu baliya LBS,Region 6,Moddy,Darsilameh BCS
 TRUE,7/15/2021 13:09:51,Dembo ,L,Manneh,7916113,20221385,Brikama Campus,Advanced Diploma in Education Secondary,A,Agric Science,Physical and Health Education,Region 2,Sibanor,Sibanor ubs/sss,Region 2,Ndemban,Somita ubs/sss
 TRUE,7/15/2021 13:23:20,Lamin,,Jarju,2753578,2022791,Brikama Campus,Advanced Diploma in Education Secondary,B,English,PHE,Region 2,Lamin daranka,Kubuneh basic cycle school,Region 2,Lamin daranka,Maladah upper&Senior seconday school
 TRUE,7/15/2021 13:38:33,Baboucarr ,,Samba,7544081,20221349,Brikama Campus,Advanced Diploma in Education Secondary,P,S E S,P H E,Region 5,Panchang,Panchang UBS & SSS,Region 5,Panchang,Panchang UBS & SSS
@@ -80,7 +80,7 @@ TRUE,7/15/2021 16:43:35,Oumie,,Sanneh,3632127,20221140,Brikama Campus,Advanced D
 TRUE,7/15/2021 16:50:59,Mam,,Ceesay,2203846490,20221073,Brikama Campus,Advanced Diploma in Education Secondary,,SES,ENGLISH ,Region 1,Ousman sowe,Bakoteh Upper Basic School ,Region 1,Ousman sowe,Bakoteh Upper Basic School 
 TRUE,7/15/2021 16:54:44,Abdoulie,,Jallow,7909670,2022591,Brikama Campus,Advanced Diploma in Education Secondary,General Group J,Science,English,Region 2,Lamin Daranka,Babylon Basic Cycle,Region 2,Bijilo ,Interior Academy
 TRUE,7/15/2021 16:56:54,Bubacarr ,,Sowe,3789587,2022937,Brikama Campus,Advanced Diploma in Education Secondary,N,Ses,PHE,Region 3,Ebrima jarra,Essau sss,Region 2,Jamisa,Jamisa UB/Sss
-TRUE,7/15/2021 17:25:37,Ensa,,Sambou,2407970,2021919,Brikama Campus,Diploma in Education Primary,Class D,,,Region 2,,,Region 2,,Nyofelleh LBS
+TRUE,7/15/2021 17:25:37,Ensa,,Sambou,2407970,2021919,Brikama Campus,Diploma in Education Primary,Class D,,,Region 2,,Nyofelleh LBS,Region 2,,
 TRUE,7/15/2021 17:35:29,Omar,M,Jallow,2905321,2022435,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 4,Soma,Tahir ahmaddiya,Region 2,Busumbala,Mingdaw
 TRUE,7/15/2021 17:45:54,Modou ,,Secka,7131645,2022314,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE,Region 3,ESSAU CLUSTER ,BARRA/ ESSAU UBS,Region 3,ESSAU CLUSTER ,ESSAU SENIOR SECONDARY SCHOOL 
 TRUE,7/15/2021 17:57:44,Sheriff,,Njie,2169923,20221179,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 5,Panchang,Nyanga Bantang Basic Cycle School,Region 5,Sankulay kunda,Janjanbureh upper Basic School
@@ -113,7 +113,7 @@ TRUE,7/16/2021 0:08:55,Nyima,,Sambou,7793903,2021910,Brikama Campus,Diploma in E
 TRUE,7/16/2021 1:03:45,Mama,,Badjie,3408336,2021839,Brikama Campus,Diploma in Education Primary,P,,,Region 2,,Yunus,Region 2,,Anna Marie revie
 TRUE,7/16/2021 2:39:18,Omar,,Jallow,5290589,2021854,Brikama Campus,Diploma in Education Primary,H,,,Region 3,Medina serign mass,Kerr cherno LBS,Region 2,Old yundum,Wellingara LBS
 TRUE,7/16/2021 4:50:47,BINTA,,SEY,3264002,20211403,Brikama Campus,Diploma in Education Primary,N/Group 3,English,Science,Region 3,Basiru Ngum,Kerr Amadou BCS,Region 3,Basiru Ngum,Kerr Amadou BCS
-TRUE,7/16/2021 7:16:12,Muhammed Jaguraga,,Jaguraga,2096893,20221254,Brikama Campus,Advanced Diploma in Education Secondary,M,SCIENCE ,S.E.S,Region 2,Brufut cluster,SUKUTA UB/SSS,Region 1,Safiyang touray cluster ,Latrikunda Sabiji UBS
+TRUE,7/16/2021 7:16:12,Muhammed ,,Jaguraga,2096893,20221254,Brikama Campus,Advanced Diploma in Education Secondary,M,SCIENCE ,S.E.S,Region 2,Brufut cluster,SUKUTA UB/SSS,Region 1,Safiyang touray cluster ,Latrikunda Sabiji UBS
 TRUE,7/16/2021 9:50:52,Isatou,M S,Jallow,3862056,2021196,Brikama Campus,Diploma in Education Primary,A,,,Region 2,,Sutusinjang Lower Basic School,Region 2,,Ndemban Lower Basic School
 TRUE,7/16/2021 10:13:05,Mariama,,Daffeh,3716692,2021810,Brikama Campus,Diploma in Education Islamic,D,,,Region 2,Brikama,Presentation of Mary BCS,Region 2,Brikama ,Brikama Nema lbs
 TRUE,7/16/2021 10:51:33,FATOU ,,SAGNA ,2020139,2022274,Brikama Campus,Advanced Diploma in Education Secondary,E,FRENCH ,FRENCH ,Region 2,Busumbala Farato,Ming Daw UB/SSS,Region 2,Busumbala Farato ,Ming Daw UB/SSS
@@ -134,7 +134,7 @@ TRUE,7/16/2021 13:22:13,Musa ,,Nyassi,5239385,2021195,Brikama Campus,Diploma in 
 TRUE,7/16/2021 13:23:31,Abdou ,,Badjie ,5964050,20211398,Brikama Campus,Diploma in Education Primary,A,,,Region 2,Ndemban ,Sutusinjang BC,Region 6,Basse ,Sabusereh LBS
 TRUE,7/16/2021 13:33:53,Baboucarr,,Ceesay,7733688,2023076,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 2,New yundum,New yundum,Region 2,Gunjur,Sinchu wurry LBS
 TRUE,7/16/2021 13:39:16,Nyima ,,Sanyang ,7855799,2023091,Brikama Campus,Diploma in Early Childhood Education,A Class ,,,Region 2,Wellingara,Wellingara CIS,Region 2,Wellingara ,Wellingara CIS
-TRUE,7/16/2021 13:39:57,Ndama,Non,Sallah,3933036,2022802,Brikama Campus,Advanced Diploma in Education Secondary,M,Science,SES,Region 4,Soma,Misera,Region 2,Brikama,Kabafiter  UBS/SSS
+TRUE,7/16/2021 13:39:57,Ndama,,Sallah,3933036,2022802,Brikama Campus,Advanced Diploma in Education Secondary,M,Science,SES,Region 4,Soma,Misera,Region 2,Brikama,Kabafiter  UBS/SSS
 TRUE,7/16/2021 13:48:46,Kalifa,,Bah,7458997,20211433,Brikama Campus,Diploma in Early Childhood Education,P,Math,Science,Region 2,ILLIASA,YALLAL TANKONJALA LBS,Region 3,ILLIASA,JARIKAW FULA LBS
 TRUE,7/16/2021 13:48:53,Mariama ,A,Jallow,3018734,2021952,Brikama Campus,Diploma in Education Primary,Class c,,,Region 2,,New yundum LBS,Region 2,,St. Peter'sLBS
 TRUE,7/16/2021 13:54:46,Nyima,,Badjie ,2575270,2023190,Brikama Campus,Diploma in Early Childhood Education,C class ,,,Region 2,,Lighthouse ,Region 2,,Lighthouse 
@@ -172,7 +172,7 @@ TRUE,7/16/2021 17:18:42,Awa,S,Trawally,2207543,2023174,Brikama Campus,Diploma in
 TRUE,7/16/2021 17:21:32,Edrissa,,Sambou,2802737,2021033,Brikama Campus,Diploma in Education Primary,A,,,Region 2,Lamin Daranka,Lamin Daranka LBS,Region 1,Latrikunda Sabiji,Latrikunda Sabiji LBS
 TRUE,7/16/2021 17:20:14,Mariama ,,Gassama ,3260453,2021262,Brikama Campus,Diploma in Education Primary,3,,,Region 1,Safiyang Touray ,Latrikunda sabiji,Region 1,Safiyong Touray ,Latrikunda Sabiji Annex 
 TRUE,7/16/2021 17:21:28,Hulaymatou,,Jallow,2085114,2023153,Brikama Campus,Diploma in Early Childhood Education,C class,,,Region 2,Na,Sutusinjang,Region 2,Na,Sutusinjang
-TRUE,7/16/2021 17:22:24,Maimuna,,Jarju,Qcell,2021972,Brikama Campus,Diploma in Education Primary,D class,,,Region 2,,Kuloro lower basic school ,Region 2,,Bonto lower basic school 
+TRUE,7/16/2021 17:22:24,Maimuna,,Jarju,,2021972,Brikama Campus,Diploma in Education Primary,D class,,,Region 2,,Kuloro lower basic school ,Region 2,,Bonto lower basic school 
 TRUE,7/16/2021 17:25:21,Isatou ,M,Camara,5075027,2023006,Brikama Campus,Diploma in Early Childhood Education,,,,Region 5,Yahya A faal,Jareng LBS,Region 5,Fatou m jallow,Sinchu boli LBS
 TRUE,7/16/2021 17:32:36,Mamadou,,Baldeh,5254661,2021424,Brikama Campus,Diploma in Education Primary,B,,,Region 5,Brikamaba,Sare Barbou LBS,Region 5,Sankulakunda,Kusalan LBS
 TRUE,7/16/2021 17:37:33,Fatou ,,Chorr,3067636,2021620,Brikama Campus,Advanced Diploma in Education Primary,H,,,Region 3,Essau,Bakindik,Region 3,Albreda,Bakalarr LBS
@@ -218,13 +218,13 @@ TRUE,7/17/2021 0:29:47,Mariama ,,Sanyang ,5841171,20211207,Brikama Campus,Diplom
 TRUE,7/17/2021 0:44:30,Abdoulie ,,Loum,7036740,2021337,Brikama Campus,Diploma in Education Primary,MRC ROOM5 E class,Na,Na,Region 5,Kudang,Jamagen LBS,Region 5,Kudang,Jamagen LBS
 TRUE,7/17/2021 0:51:12,Lamin ,,Touray ,5088471,20211350,Brikama Campus,Diploma in Education Primary,O Class Group 6,,,Region 2,Lamin Daranka ,St Peter's LBS,Region 2,Lamin Daranka ,St Peter's LBS 
 TRUE,7/17/2021 0:59:53,Ismaila,L,Camara,3016609,2021474,Brikama Campus,Diploma in Education Primary,A,,,Region 2,Busumbala Farato,Busumbala Farato LBS,Region 2,Busumbala Farato ,Busumbala Farato Annex 
-TRUE,7/17/2021 1:08:43,Obed ,,siberston ,3493338,2021490,Brikama Campus,Diploma in Education Primary,A/1,,,Region 1,Ousman sowe ,Bakoteh LBS,Region 2,Brufut,Bijilo LBS
-TRUE,7/17/2021 1:20:02,fatou,,badjie,3103490,20211015,Brikama Campus,Diploma in Education Primary,H/ group 3,,,Region 2,Ndemban,kanuma,Region 2,Ndenban,sutusinjana
+TRUE,7/17/2021 1:08:43,Obed ,,Siberston ,3493338,2021490,Brikama Campus,Diploma in Education Primary,A/1,,,Region 1,Ousman sowe ,Bakoteh LBS,Region 2,Brufut,Bijilo LBS
+TRUE,7/17/2021 1:20:02,Fatou,,Badjie,3103490,20211015,Brikama Campus,Diploma in Education Primary,H/ group 3,,,Region 2,Ndemban,kanuma,Region 2,Ndenban,sutusinjana
 TRUE,7/17/2021 2:41:01,Oumie ,,Jobe,2845565,2021928,Brikama Campus,Diploma in Education Primary,A,,,Region 3,Fass,Ndofan BCS,Region 3,Latrikunda Sabiji,Latrikunda Sabiji Annex LBS
 TRUE,7/17/2021 8:31:33,LAMIN ,K,JOBE ,3379534,2022844,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE ,Region 4,SOMA CLUSTER ,SOMA UBS/SSS,Region 4,PAKALIBA,JAPPINEH UBS/SSS
 TRUE,7/17/2021 8:40:41,Mariama ,,Ceesay ,3332618,2023092,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 2,Excellence preparatory school ,Excellence preparatory school ,Region 2,Excellence preparatory school ,Excellence preparatory school 
 TRUE,7/17/2021 8:46:21,Jengan,,Cham,3330977,2021967,Brikama Campus,Diploma in Education Primary,L,,,Region 2,Old yundum,Sinchu Alagie Lower Basic School,Region 2,Old yundum,Sinchu Alagie Lower Basic School
-TRUE,7/17/2021 10:09:40,Ousainey,NA,Bojang,3572900,2021891,Brikama Campus,Diploma in Education Primary,J,,,Region 2,Manduar,Manduar LBS,Region 2,Penyam ,Penyam UBS
+TRUE,7/17/2021 10:09:40,Ousainey,,Bojang,3572900,2021891,Brikama Campus,Diploma in Education Primary,J,,,Region 2,Manduar,Manduar LBS,Region 2,Penyam ,Penyam UBS
 TRUE,7/17/2021 10:08:25,Mbasally,,Janneh,3015661,20211248,Brikama Campus,Diploma in Education Primary,D class,,,Region 2,Faraba banta,Pirang LBS,Region 2,Faraba banta,Kuloro LBS
 TRUE,7/17/2021 10:17:33,Fatoumatta ,,Drammeh ,2612960,20211440,Brikama Campus,Diploma in Education Primary,J,,,Region 1,Serekunda ,Serekunda Annex lower basic school ,Region 2,Brufut,Sanchaba sulay jobe lower basic school 
 TRUE,7/17/2021 11:16:44,Hawa,,Jallow,2907740,20221328,Brikama Campus,Advanced Diploma in Education Secondary,General O,P.H.E,S.E.S,Region 2,Bondali,Mayork,Region 4,Kwnella,Kwinella
@@ -257,14 +257,14 @@ TRUE,7/17/2021 13:51:39,Nancy,Pj,Preira,3136581,2021914,Brikama Campus,Diploma i
 TRUE,7/17/2021 13:57:22,Alieu,,Bah,3329492,2022881,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agricultural science,Region 2,Brikama,Brikama  SSS,Region 2,Brikama,Jamisa UBS/SSS
 TRUE,7/17/2021 14:23:37,Hosea,,Dacosta,3522812,20221008,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 3,Eassu cluster ,Bakalarr UBS/SSS,Region 3,Albreada cluster ,Sitanunku UBS/SSS
 TRUE,7/17/2021 14:50:26,Muhammed,,Keita,7165835,20221111,Brikama Campus,Advanced Diploma in Education Secondary, I,General Science,Agricultural Science,Region 2,Lamin Daranka,Kombo kerewan Upper & senior secondary school,Region 2,Lamin Daranka,Kombo kerewan Upper & senior secondary school
-TRUE,7/17/2021 15:11:43,Surakata ceesay,,Surakata ceesay,5202765,20211314,Brikama Campus,Diploma in Education Primary, J class,,,Region 5, Jarreng,Jarreng lower basic school,Region 5,,Jarreng
+TRUE,7/17/2021 15:11:43,Surakata,,Ceesay,5202765,20211314,Brikama Campus,Diploma in Education Primary, J class,,,Region 5, Jarreng,Jarreng lower basic school,Region 5,,Jarreng
 TRUE,7/17/2021 15:41:42,Nfamara,,Jadama,3229670,2021687,Brikama Campus,Diploma in Education Islamic,D,,,Region 2,Brikama,Henriette LBS,Region 2,Brikama,Kabafita LBS
 TRUE,7/17/2021 16:06:25,Sohna ,,Mbowe,2342267,2022037,Brikama Campus,Advanced Diploma in Education Secondary,M,SES,SCIENCE,Region 5,Panchang,Nyangabantang B.C.S,Region 3,Madina sering mass ,Berending B.C.S
 TRUE,7/17/2021 16:15:45,Fatoumatta,S,Bojang,3954107,20221365,Brikama Campus,Advanced Diploma in Education Secondary,N,ART,SES,Region 2,Faraba Banta,Faraba Banta,Region 1,Talinding,Talinding
 TRUE,7/17/2021 16:42:22,Lamin ,A,Drammeh,5007460,20221235,Brikama Campus,Advanced Diploma in Education Secondary,B,English language ,Science,Region 1,Brufut ,Brufut upper basic and senior secondary school ,Region 2,Banyaka,St.francis junior and senior secondary school 
 TRUE,7/17/2021 16:34:19,ousman,,drammeh,6774922,2021711,Brikama Campus,Diploma in Education Islamic,A class,islamic,islamic,Region 2,kabafitta cluster,kabafitta l b s,Region 2,kembujeh  madina,A B C .  L . B. S
 TRUE,7/17/2021 16:57:01,Amie,,Sowe,2789808,2021478,Brikama Campus,Diploma in Education Primary,A,,,Region 2,Banyaka,Tujereng,Region 2,Banyaka,Tujereng
-TRUE,7/17/2021 16:58:24,Omar,,Sowe,Qcell,2021979,Brikama Campus,Diploma in Education Primary,D class,,,Region 2,Jamisa,Jamisa Lower Basic school ,Region 2,Jamisa ,Jamisa  Annex Lower Basic school 
+TRUE,7/17/2021 16:58:24,Omar,,Sowe,,2021979,Brikama Campus,Diploma in Education Primary,D class,,,Region 2,Jamisa,Jamisa Lower Basic school ,Region 2,Jamisa ,Jamisa  Annex Lower Basic school 
 TRUE,7/17/2021 17:18:49,Fatou ,B,Ceesay ,3486475,20221326,Brikama Campus,Advanced Diploma in Education Secondary,General B,English ,ICT,Region 2,Lamin Daranka,Maladah UB/SSS,Region 2,Lamin Daranka,St. Peter's UB/SSS
 TRUE,7/17/2021 17:19:06,Binta ,,Sanyang ,5864661,2022920,Brikama Campus,Advanced Diploma in Education Secondary,General C ,English ,SES,Region 2,Ndemban ,Ndemban upper Basic ,Region 2,Busumbala farato,Yunus English UBS/SSS
 TRUE,7/17/2021 17:32:31,Ebrima,,Barry,3680046,2022952,Brikama Campus,Advanced Diploma in Education Secondary,C,English Language,S E S,Region 6,Sandu Cluster,Daibugu UB/SSS,Region 6,Wuli East,Bajakunda UB/SSS
@@ -282,7 +282,7 @@ TRUE,7/17/2021 19:58:57,Haddy,Joanna,Mendy,3329222,2022719,Brikama Campus,Advanc
 TRUE,7/17/2021 19:59:16,Yusuf,,Saidykhan,7411899,2021383,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,Busumbala,Busumbala Farato LBS,Region 2,Busumbala,new  Yundum LBS
 TRUE,7/17/2021 20:14:44,Majula,B.,Fatty,3908592,2021422,Brikama Campus,Diploma in Education Primary,H class,,,Region 1,Bakoteh Annex,Bakoteh Annex,Region 2,Brufut,Sanchaba LBS
 TRUE,7/17/2021 20:31:38,Badou,,Ndow,5057165,2022778,Brikama Campus,Advanced Diploma in Education Secondary,J,Science,ICT,Region 2,Busumbala farato,New yundum upper basic,Region 2,Jamisa,Jamisa upper/sss
-TRUE,7/17/2021 21:11:04,Saikou ,Mr jarju,Jarju,3751142,20211419,Brikama Campus,Diploma in Education Primary,J group 5,,,Region 2,Kabafita l.b.s and sotokoi daru l.b.s,Sotokoi daru l.b.s,Region 2,Kabafita lbs,Sotokoi daru lbs
+TRUE,7/17/2021 21:11:04,Saikou ,,Jarju,3751142,20211419,Brikama Campus,Diploma in Education Primary,J group 5,,,Region 2,Kabafita l.b.s and sotokoi daru l.b.s,Sotokoi daru l.b.s,Region 2,Kabafita lbs,Sotokoi daru lbs
 TRUE,7/17/2021 21:16:52,Ellen,Haddy,Mendy,2183689,2021048,Brikama Campus,Diploma in Education Primary,F,,,Region 2,Saint Vincent De Paul BCS sanyang,Saint Vincent De paul BCS,Region 2,,
 TRUE,7/17/2021 21:26:56,Madeline,K,Mendy,5840957,20211411,Brikama Campus,Diploma in Education Primary,M,,,Region 2,Ndemban,Somita lower basic school,Region 2,Medina,Emmachristine lower basic school
 TRUE,7/17/2021 21:36:05,Jarry,,Jallow,3016703,2021925,Brikama Campus,Diploma in Education Primary,F,,,Region 2,Faraba banta,Koloro LBS,Region 2,Brikama,Brikama LBS
@@ -306,8 +306,8 @@ TRUE,7/18/2021 0:24:40,Anty marrie,,Kabia,3564542,2022184,Brikama Campus,Advance
 TRUE,7/18/2021 1:09:07,Matida,,Gassama,7279315,2022208,Brikama Campus,Advanced Diploma in Education Secondary,I,Science,Agriculture,Region 2,Old yundum,Old yundum UBS,Region 2,Banjulding,Yundum Barracks
 TRUE,7/18/2021 1:52:25,Saikou,,Jagne,3380824,2022017,Brikama Campus,Advanced Diploma in Education Secondary,H,Agriculture Science,General Science,Region 2,Busumbala Farato,Yalding Basic Cycle School,Region 2,Busumbala Farato,SDA Basic cycle school
 TRUE,7/18/2021 2:52:06,Modou lamin ,,Sawaneh,3233292,20211404,Brikama Campus,Diploma in Education Primary,,,,Region 2,,Gidda LBS,Region 2,,Brikama nema LBS
-TRUE,7/18/2021 9:03:43,Karamo,,Ceesay,Qcell,2021349,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,,Sanyang,Region 2,,
-TRUE,7/18/2021 9:27:44,Karamo,,Ceesay,Qcell,2021349,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,,Sanyang Lbs,Region 2,,
+TRUE,7/18/2021 9:03:43,Karamo,,Ceesay,,2021349,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,,Sanyang,Region 2,,
+TRUE,7/18/2021 9:27:44,Karamo,,Ceesay,,2021349,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,,Sanyang Lbs,Region 2,,
 TRUE,7/18/2021 9:56:41,Isatou,,Ceesay,3133106,2022777,Brikama Campus,Advanced Diploma in Education Secondary,General B,English,P.H.E,Region 2,Jabang,Jabang upper basic school,Region 2,Sibanor,Sibanor UB/SSS
 TRUE,7/18/2021 9:57:01,Alieu,,Kamara,5133326,2022840,Brikama Campus,Advanced Diploma in Education Secondary,General group B,English language,Physical Education,Region 1,LATRIKUNDA  SABIJI,Latrikunda sabiji  UBS,Region 2,BUSUMBALA  FARATO,Yalding  BCS
 TRUE,7/18/2021 9:59:43,Alimatou,F.E,Gingally ,7638286/5234091,2022884,Brikama Campus,Advanced Diploma in Education Secondary,H,Agricultural science,General science,Region 2,Gunjur,Nyoffelleh u.b.s,Region 2,Bakarysambouya,Al_kawthar
@@ -346,7 +346,7 @@ TRUE,7/19/2021 12:23:56,Fatou,,Jobe,3569418,20211155,Brikama Campus,Advanced Dip
 TRUE,7/19/2021 13:18:53,Omar,,Jallow,5290589,2021854,Brikama Campus,Diploma in Education Primary,H,,,Region 2,Old yundum ,Wellingara,Region 2,Old yundum,Sinchu Alhagie LBS
 TRUE,7/19/2021 14:57:05,Mama ,,Samateh ,3945724,2021771,Brikama Campus,Diploma in Education Islamic,B  Class,,,Region 2,BAKARI SAMBOUYA  CLUSTER,Basori LBS,Region 2,Bakary sambouya,Tubakuta LBS
 TRUE,7/19/2021 15:08:10,Isatou,,Sanyang,3538730,20221021,Brikama Campus,Advanced Diploma in Education Secondary,Agric2/science5/general H,Agriculture,Science,Region 2,Gunjur,Sifoe UB/SSS,Region 2,Gunjur,Sifoe UB/SSS
-TRUE,7/19/2021 18:44:19,Baba,Malang ,Suwaneh,Qcell,2021727,Brikama Campus,Diploma in Education Islamic,A,,,Region 2,Sanchaba,Sanchaba,Region 2,Sanchaba,Sanchaba
+TRUE,7/19/2021 18:44:19,Baba,Malang ,Suwaneh,,2021727,Brikama Campus,Diploma in Education Islamic,A,,,Region 2,Sanchaba,Sanchaba,Region 2,Sanchaba,Sanchaba
 TRUE,7/19/2021 19:04:08,Halimatou ,,Fadera,2923446,20221258,Brikama Campus,Advanced Diploma in Education Secondary,N,SES ,P.E,Region 2,Jamisa,Jamisa ubs/sss,Region 2,Brikama,Brikama ubs/sss
 TRUE,7/19/2021 19:05:34,Morikebba,,Samateh,3320691,2021667,Brikama Campus,Diploma in Education Islamic,E,,,Region 2,Brikama,Gidda Primary School ,Region 2,Brikama,Brikama Lower Basic School 
 TRUE,7/19/2021 21:34:31,YASSIN ,,NJIE ,5071885,2021957,Brikama Campus,Diploma in Education Primary,K,,,Region 2,Brikama ,Brikama jeddah,Region 2,Brikama,Brikama lower basic school 
@@ -388,7 +388,7 @@ TRUE,7/21/2021 13:55:54,Abdoulie,,Touray,5906442,20211222,Brikama Campus,Diploma
 TRUE,7/21/2021 14:13:00,Fatou,A,Camara,3640272,2021037,Brikama Campus,Advanced Diploma in Education Primary,I,,,Region 6,Basse cluster,St. George's Primary school,Region 1,,St. Charles Lawanga
 TRUE,7/21/2021 15:03:36,Sainabou,,Hydara,3381916,20211188,Brikama Campus,Diploma in Education Primary,J,,,Region 1,Saihou Jagne,Serekunda Carter,Region 1,Antouman Nying,Tallinding anex
 TRUE,7/21/2021 15:33:59,Mariama,,Jarbo,7803601,2022399,Brikama Campus,Advanced Diploma in Education Secondary,H,Science ,Agricultural science ,Region 2,Old yundum,Sinchu Baliya,Region 2,Old yundum ,Old yundum upper basic school 
-TRUE,7/21/2021 15:37:03,Aminata,,Jallow,Qcell,2021726,Brikama Campus,Diploma in Education Islamic,A class,,,Region 1,Cluster 9 latrikunda sabiji LBS,Latrikunda sabiji LBS,Region 1,Cluster 7 Tallinding Annex,Tallinding LBS
+TRUE,7/21/2021 15:37:03,Aminata,,Jallow,,2021726,Brikama Campus,Diploma in Education Islamic,A class,,,Region 1,Cluster 9 latrikunda sabiji LBS,Latrikunda sabiji LBS,Region 1,Cluster 7 Tallinding Annex,Tallinding LBS
 TRUE,7/21/2021 16:27:02,Mariama,,Conteh,7998519,2021840,Brikama Campus,Diploma in Education Primary,Class A,,,Region 2,Brikama,Nema lower Basic School ,Region 2,,Henriette lower Basic School 
 TRUE,7/21/2021 17:00:51,Samba,,Jarju,3802831,20211326,Brikama Campus,Diploma in Education Primary,J class,,,Region 2,Busumbala farato,Farato busumbala lower basic school,Region 2,Jaiban,Jambur
 TRUE,7/21/2021 19:39:04,Ensa,E,Jarju,3496044,2021213,Brikama Campus,Diploma in Education Primary,M Class,,,Region 1,Abuko,Abuko lower Basic school,Region 1,Abuko,Abuko lower Basic school 
@@ -417,11 +417,11 @@ TRUE,7/23/2021 11:44:13,Mbaka ,,Janneh,5158738,20217005,Brikama Campus,Diploma i
 TRUE,7/23/2021 12:54:38,Adama ,,Badjie ,5382484,2021876,Brikama Campus,Diploma in Education Primary,Class:B,,,Region 2,Jabang,Jabang LBS,Region 2,Old yundum ,Old yundum LBS
 TRUE,7/23/2021 14:34:10,Fatou,D,Kanteh,5060108,2022109,Brikama Campus,Advanced Diploma in Education Secondary,M,S E S,I C T,Region 1,St Charles lwanga,St Charles lwanga UBS,Region 2,Lamin Daranka,St Peter's UBS/SSS
 TRUE,7/23/2021 17:57:11,Zainab,,Kabba,7540388,2021772,Brikama Campus,Diploma in Education Islamic,,,,Region 1,,Bundung lower Basic school,Region 1,,Bundung Annex lower Basic school
-TRUE,7/23/2021 22:03:04,Gibbi ,Na,Ndow,3390942,20211230,Brikama Campus,Diploma in Education Primary,D,,,Region 5,Mbayen Wollof ,Mbayen Wollof ,Region 5,,Mbayen Wollof 
+TRUE,7/23/2021 22:03:04,Gibbi ,,Ndow,3390942,20211230,Brikama Campus,Diploma in Education Primary,D,,,Region 5,Mbayen Wollof ,Mbayen Wollof ,Region 5,,Mbayen Wollof 
 TRUE,7/24/2021 11:08:01,Fanta,,Sillah 38,3844033,20211104,Brikama Campus,Diploma in Education Primary,Class H,Mathematics,S E S,Region 5,Kaur,Kaur LBS,Region 5,Lamin saidykhan,Kaur LBS
 TRUE,7/24/2021 11:27:35,Fatoumata,,Bah,3252733,2023233,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 1,Cluster 2  S nyan,Campama Banjul,Region 5,Jalokoto,Jalokoto
 TRUE,7/24/2021 12:03:27,FANTA,,GANESS,7709181,2021847,Brikama Campus,Diploma in Education Primary,K,,,Region 1,Kebba Manneh,St. Charles Lwanga Lower Basic School,Region 2,Lamin Daranka,St. Peter's Lower Basic School
-TRUE,7/24/2021 13:25:34,Jainaba,Non,Bojang,7669573,20211264,Brikama Campus,Diploma in Education Primary,General P,,,Region 1, Albion cluster,Muslim LBS,Region 1,Albion cluster,Muslim lbs
+TRUE,7/24/2021 13:25:34,Jainaba,,Bojang,7669573,20211264,Brikama Campus,Diploma in Education Primary,General P,,,Region 1, Albion cluster,Muslim LBS,Region 1,Albion cluster,Muslim lbs
 TRUE,7/24/2021 13:26:47,Fatou,,Bah,3285597 / 7461009,20211199,Brikama Campus,Diploma in Education Primary,P,,,Region 2,Jabang,Janang LBS,Region 2,Jabang,Latriya LBS
 TRUE,7/24/2021 13:32:54,Siga,,Chorr,2069639,20211330,Brikama Campus,Diploma in Education Primary,P general,,,Region 1,Albion cluster,Muslim lbs,Region 1,Albion cluster,Muslim lbs
 TRUE,7/24/2021 14:31:05,Kadddijatou,,Jallow,7863647,2021768,Brikama Campus,Diploma in Education Islamic,,,,Region 1,,Old yundum lower Basic school,Region 1,,Banjulinding lower Basic school
@@ -431,7 +431,7 @@ TRUE,7/24/2021 17:40:37,Sirreh,,Sanyang ,3286924,20211364,Brikama Campus,Diploma
 TRUE,7/24/2021 18:42:46,ABUBACARR,,MANNEH,7581688,2022737,Brikama Campus,Advanced Diploma in Education Secondary,General Group ( P).,SES,PE,Region 2,BUSUMBALA FARATO,YUNUS ENGLISH  UB/SSS.,Region 1,TALINDING ANNEX.,TALINDING UBS
 TRUE,7/24/2021 21:44:51,Imam hassan,,Jobe,2436495,2021803,Brikama Campus,Diploma in Education Islamic,A,NA,NA,Region 2,2,"As Salam lower, upper and senior school",Region 1,1,Serekunda (LK) lower and upper basic school
 TRUE,7/24/2021 21:50:37,Amadou,,Bah,2812443,20221293,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE,Region 3,Fass,Fass UB/SSS,Region 3,Fass,ST. Vincent De  Paul
-TRUE,7/24/2021 22:50:46,Catherine,Non,Malack,9729340,20211434,Brikama Campus,Diploma in Education Primary,Class p,Non,Non,Region 2,Daranka,Makumbaya,Region 2,Daranka,Kubuneh
+TRUE,7/24/2021 22:50:46,Catherine,,Malack,9729340,20211434,Brikama Campus,Diploma in Education Primary,Class p,Non,Non,Region 2,Daranka,Makumbaya,Region 2,Daranka,Kubuneh
 TRUE,7/25/2021 12:44:40,Kadddy,,Touray,7836456,2021350,Brikama Campus,Diploma in Education Islamic,D class,Diploma Islamic,Diploma Islamic,Region 2,Samyang lower Basic school,Sanyang lower Basic school,Region 1,Talinding lower Basic school,Talinding lower Basic school
 TRUE,7/25/2021 13:20:40,John,,Ebrima,7252217,20211409,Brikama Campus,Diploma in Education Primary,3,Eps,English,Region 2,Not available,New Yundum,Region 2,,
 TRUE,7/25/2021 14:31:47,Fatou,K,Darboe,5049660,2021958,Brikama Campus,Diploma in Education Primary,F,Geography,English,Region 2,Bakary sambouya Cluster,Basori LBS,Region 2,Bakary sambouya Cluster,Toubakuta LBS
@@ -468,7 +468,7 @@ TRUE,7/27/2021 8:58:26,Aramata,,Barrow,2269941,2021714,Brikama Campus,Diploma in
 TRUE,7/27/2021 9:11:08,Mawdo,,Ndimballan,3046334,20221086,Brikama Campus,Advanced Diploma in Education Secondary,F,Mathematics,Agriculture Science,Region 2,BANYAKA,Sanyang Upper/Senior,Region 1,ST.CHARLESLWANGA): kebba Manneh,Abuko Upper
 TRUE,7/27/2021 11:11:09,AYUBA ,,DAWDA ,7799277,2022828,Brikama Campus,Advanced Diploma in Education Secondary,Year  (1) / General Group  M,Science ( 4 ),S E S (5 ),Region 1,BUNDUNG.  Jerreh Sowe,Advance  UBS,Region 1,BUNDUNG.  Jerreh  Sowe,Brimawa UBS
 TRUE,7/27/2021 12:13:41,Saffiatou ,A,Kujabi,3188281,20211192,Brikama Campus,Diploma in Education Primary,P,,,Region 2,Faraba banta,Kuloro,Region 3,Pa modou sallah,Bafuloto
-TRUE,7/27/2021 13:19:07,Adama ceesay,Adama,ceesay,7325710,2021843,Brikama Campus,Diploma in Education Islamic,Islamic,,,Region 2,Bursbe ,Butane L.B.S,Region 2,Bursbe,Butane l. B. S
+TRUE,7/27/2021 13:19:07,Adama ,,Ceesay,7325710,2021843,Brikama Campus,Diploma in Education Islamic,Islamic,,,Region 2,Bursbe ,Butane L.B.S,Region 2,Bursbe,Butane l. B. S
 TRUE,7/27/2021 14:01:24,Marima ,,Touray,7662037,2021733,Brikama Campus,Diploma in Education Islamic,B Class,,,Region 1,1,Abuko upper basic school ,Region 1,1,Abuko upper basic school 
 TRUE,7/27/2021 15:27:46,Mariama,A,Nyassi,35510764,2021716,Brikama Campus,Diploma in Education Islamic,A,,,Region 2,Banjulinding,Banjulinding lbs,Region 2,Brikama,Brikama nema lbs
 TRUE,7/27/2021 15:35:07,Rohey,M,Cham,7520786,20211208,Brikama Campus,Diploma in Education Primary,P,,,Region 2,Banjulinding cluster,Kunkunjang keitaya LBS,Region 2,Bondali cluster,Fass chamen nusery and LBS
@@ -476,7 +476,7 @@ TRUE,7/27/2021 17:04:27,FATOU,B ,SANNEH ,3595085,20211067,Brikama Campus,Diploma
 TRUE,7/27/2021 17:32:30,Isatou,,Joof,5063928,2021959,Brikama Campus,Diploma in Education Primary,Class A/Group 5,,,Region 1,Abubacarr Bah,Bakau New Town,Region 2,Madi Fatty,Latrikunda Yiringanya
 TRUE,7/27/2021 18:26:22,Isatou,,Sanyang,3817379/7679508,20221226,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,Physical Education ,Region 2,Brikama ,SAAMASANG,Region 2,Ndemban,Berefet BCS
 TRUE,7/27/2021 19:05:03,Magansa,,Nyariga,2393532,2021682,Brikama Campus,Diploma in Education Islamic,A class,,,Region 6,Kabiru Darboe,Dampha Kunda BCS,Region 6,Kabiru Darboe,kiskis LBS
-TRUE,7/27/2021 21:15:09,Amienata ,,Touray,Qcell,2021818,Brikama Campus,Diploma in Education Islamic,C class,,,Region 2,,Sanyang,Region 2,,Sanyang
+TRUE,7/27/2021 21:15:09,Amienata ,,Touray,,2021818,Brikama Campus,Diploma in Education Islamic,C class,,,Region 2,,Sanyang,Region 2,,Sanyang
 TRUE,7/28/2021 2:44:46,Abubacarr ,,Marena,7981594,2021764,Brikama Campus,Diploma in Education Islamic,B,,,Region 2,,Kembujeh  LBS ,Region 2,,ABC LBS
 TRUE,7/28/2021 3:35:20,Balamin,,Sawaneh,3335800,2022551,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE,Region 1,Lamin marrong,Muslim senior secondary school,Region 5,Jali morri jobateh,Brikamaba upper and senior secondary school
 TRUE,7/28/2021 10:11:27,Nyima,,Sonko,2470981,2021730,Brikama Campus,Diploma in Education Islamic,A class,Islamic,Islamic,Region 2,Kabafitta cluster,Kabafitta l b s,Region 2,Kembujey cluster,A B C . L B S 
@@ -510,7 +510,7 @@ TRUE,7/30/2021 11:54:04,Sarjo,,Sanyang,7645341,2021944,Brikama Campus,Diploma in
 TRUE,7/30/2021 12:11:02,Lamin ,,Susso,2834198,2022410,Brikama Campus,Advanced Diploma in Education Secondary,Group H,Science ,Agricultural science ,Region 2,,Brikama Methodist upper and senior,Region 2,,Samasang senior secondary school 
 TRUE,7/30/2021 12:39:27,Oumie,,Diyoko,3150999,20211193,Brikama Campus,Diploma in Education Primary,Group 3,,,Region 3,,Nookuda LBS,Region 3,,Kerry pateh
 TRUE,7/30/2021 13:02:47,Rohey ,,Fatty,5143526,2023088,Brikama Campus,Diploma in Early Childhood Education,Class A,,,Region 2,Brikama jamisa,Jamisa yirewa nusery school ,Region 2,Brikama kabafita ,Destiny nusery school 
-TRUE,7/30/2021 13:10:35,Fatou mata,,Sima,7850476,2023036,Brikama Campus,Diploma in Early Childhood Education,Class A,,,Region 2,Brikama Kabafita ,Kindergarten wattenscheid,Region 2,Brikama kabafita ,Destiny nusery school 
+TRUE,7/30/2021 13:10:35,Fatoumata,,Sima,7850476,2023036,Brikama Campus,Diploma in Early Childhood Education,Class A,,,Region 2,Brikama Kabafita ,Kindergarten wattenscheid,Region 2,Brikama kabafita ,Destiny nusery school 
 TRUE,7/30/2021 15:00:32,Mariama,Sarjo,Jawla,3193809,2023146,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 1,FAJIKUNDA,REX NURSERY SCHOOL,Region 1,FAJIKUNDA,ROOTS DAYCARE NURSERY SCHOOL
 TRUE,7/30/2021 16:02:14,Mariama,,Corr ,3659301,2023007,Brikama Campus,Diploma in Early Childhood Education,Class A,,,Region 2,,IRI-DU nursery ,Region 2,Sanchaba sally job ,IRI-DU nursery 
 TRUE,7/30/2021 16:48:20,Famara,,Sanyang,3108544,2021319,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,Brikama cluster,Jamisa primary school,Region 2,Brikama cluster ,Brikama primary school
@@ -527,7 +527,7 @@ TRUE,8/1/2021 15:10:26,Omar,M,Jallow,3112965/7086853,2021205,Brikama Campus,Dipl
 TRUE,8/1/2021 15:10:40,Naffie,Buba,Darboe,34950932,2021823,Brikama Campus,Diploma in Education Islamic,,,,Region 2,,Sanyang Lower Basic School,Region 2,,Sanyang Lower Basic School
 TRUE,8/1/2021 16:38:01,Haddy,,Senghore,3305941,20221313,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PH,Region 3,Fass,Kerr sanyang,Region 3,Fass,Kerrsanyang
 TRUE,8/1/2021 16:39:32,Fatoumata ,,Touray ,7494650,2023237,Brikama Campus,Diploma in Early Childhood Education,Group C,,,Region 4,Pakaliba,Pakaliba BCS,Region 6,Karantaba ,Karantaba LBS
-TRUE,8/1/2021 17:36:02,majula Jallow ,,Jallow ,2237528,2021989,Brikama Campus,Diploma in Education Primary,I class,,,Region 2,farato,sotokoi daru LB,Region 2,lamin daranka,st.peters LB
+TRUE,8/1/2021 17:36:02,Majula  ,,Jallow ,2237528,2021989,Brikama Campus,Diploma in Education Primary,I class,,,Region 2,farato,sotokoi daru LB,Region 2,lamin daranka,st.peters LB
 TRUE,8/1/2021 18:36:01,Awa,,Nyass,3224376,2023214,Brikama Campus,Diploma in Early Childhood Education,A class,,,Region 2,,Almadina nrusey and LBS,Region 2,,
 TRUE,8/1/2021 18:56:18,Nyima,,Sissoko,2610423,2021848,Brikama Campus,Diploma in Education Primary,G class,,,Region 2,Brikama,Jeddah,Region 2,,Brikama primary
 TRUE,8/1/2021 20:21:13,Ousman ,,TOURAY ,3087134,2021699,Brikama Campus,Diploma in Education Islamic,Class A,,,Region 2,,Henderia LBS,Region 2,,Giddah LBS
@@ -560,7 +560,7 @@ TRUE,8/3/2021 12:58:03,Banna ,,Badjie,3048450,20211064,Brikama Campus,Diploma in
 TRUE,8/3/2021 15:10:33,Fatoumatta ,B,Jallow,3410843,20211124,Brikama Campus,Diploma in Education Primary,G,,,Region 2,Brufut,Sukuta lower,Region 1,Latrikunda sabiji,Bundung lower
 TRUE,8/3/2021 15:45:41,Lobeh,,Ceesay,5350469,2023145,Brikama Campus,Diploma in Early Childhood Education,,,,Region 2,,Reach,Region 2,,
 TRUE,8/3/2021 19:16:15,Maimuna ,T,Sonko,2682253,2023191,Brikama Campus,Diploma in Early Childhood Education,B,,,Region 2,Busumbala Farato cluster ,Yunus English school ,Region 2,Busubala farato cluster ,Yundum LBS
-TRUE,8/3/2021 20:01:48,Fatoumata,Fatoumata A.sayang,Sanyang,7201651,2021736,Brikama Campus,Diploma in Education Islamic,D.calss,,,Region 2,Brikama LBS,Brikama nema LBS,Region 2,Brikama LBS,Brikama nema LBS
+TRUE,8/3/2021 20:01:48,Fatoumata,A.,Sanyang,7201651,2021736,Brikama Campus,Diploma in Education Islamic,D.calss,,,Region 2,Brikama LBS,Brikama nema LBS,Region 2,Brikama LBS,Brikama nema LBS
 TRUE,8/3/2021 20:24:10,Mariama,,Jabang,5139063,2021686,Brikama Campus,Diploma in Education Islamic,B,,,Region 2,,Siffoe LBS ,Region 2,,Gunjur LBS
 TRUE,8/3/2021 22:17:28,Tuti,,Corr,3731614,2021450,Brikama Campus,Diploma in Education Primary,J.class,,,Region 2,Banjulinding,Banjulinding lower basic school,Region 2,Banjulinding,Kunkujang kaitaya
 TRUE,8/3/2021 23:11:04,Mariama,,Bayo,2066489,2021724,Brikama Campus,Advanced Diploma in Education Primary,A class,Hadiths ,Fiq,Region 2,Brikama,Brikama primary,Region 2,Brikama ,Kabafita
@@ -579,20 +579,20 @@ TRUE,8/4/2021 16:35:00,Fatoumatta ,A,Bah,3999613,2023202,Brikama Campus,Diploma 
 TRUE,8/4/2021 16:58:32,Nyima ,,Ceesay,7932438,20211046,Brikama Campus,Diploma in Education Primary,G,,,Region 2,Brufut,Sukuta lower basic school,Region 1,Serekunda ,Serekunda lower basic school
 TRUE,8/4/2021 17:13:53,Jainaba,,Marong,7451361,20211190,Brikama Campus,Diploma in Education Primary,L,,,Region 3,Sajah Sanyang,Ndofan BCS,Region 3,Sajah Sanyang,Ndofan BCS
 TRUE,8/4/2021 18:32:45,Binta,F,Sanyang,3352501,2023103,Brikama Campus,Diploma in Early Childhood Education,A Class,,,Region 2,Sanchaba,Martin Englefield nursery school,Region 2,Sanchaba,Inspection nursery's school
-TRUE,8/5/2021 9:46:37,Tamsir Cham,,Tamsir Cham,3021448,2023299,Brikama Campus,Diploma in Early Childhood Education,C ,,,Region 3,Fass nyaga Choi cluster,fass nyaga Choi,Region 3,Chamen cluster,Chamen Kerr Bai dam
+TRUE,8/5/2021 9:46:37,Tamsir,,Cham,3021448,2023299,Brikama Campus,Diploma in Early Childhood Education,C ,,,Region 3,Fass nyaga Choi cluster,fass nyaga Choi,Region 3,Chamen cluster,Chamen Kerr Bai dam
 TRUE,8/5/2021 10:52:28,Hawa ,,CONTEH ,3745859,2023217,Brikama Campus,Diploma in Early Childhood Education,B Class ,,,Region 1,Royal seed,Royal seed,Region 2,Henryana,
 TRUE,8/5/2021 12:06:02,Karamo,,Ndow,7829777,2021991,Brikama Campus,Diploma in Education Primary,H,,,Region 2,,Happy hands kindergarten primary school ,Region 2,,Happy hands kindergarten primary school
 TRUE,8/5/2021 12:29:21,Sirra,,Tamba,3739911,2021380,Brikama Campus,Diploma in Education Islamic,Class C,,,Region 2,Ndengban,Somita LBS,Region 2,Ndengban,Ndengban
 TRUE,8/5/2021 13:35:09,Pa Modou,,Jago,2225043,2021820,Brikama Campus,Diploma in Education Islamic,Class C,,,Region 2,Yes,Kunkujang keitaya Lower Basic School,Region 2,,Weliingara Lower Basic School
 TRUE,8/5/2021 15:06:41,Omar,,Saidy,2497349,2021367,Brikama Campus,Diploma in Education Islamic,,,,Region 1,Yes,Bundung Lower Basic School ,Region 1, Ok,Latri-Kunda Basic Cycle School 
 TRUE,8/5/2021 15:09:32,Essa,,Jawo,5942950,2023251,Brikama Campus,Diploma in Early Childhood Education,B,,,Region 2,Faraba banta,Sohm nusery school,Region 2,Faraba banta,Kafuta nusery school
-TRUE,8/5/2021 16:13:53,Bintou,,Jatta,2004291 / 3158136,2023151,Brikama Campus,Diploma in Early Childhood Education,Class B,,,Region 2,,,Region 2,,
+TRUE,8/5/2021 16:13:53,Bintou,,Jatta,2004291 / 3158136,2023151,Brikama Campus,Diploma in Early Childhood Education,Class B,,,Region 2,,Alwafa Islamic School,Region 2,,Jeddeh Nursery School
 TRUE,8/5/2021 18:20:36,Bilal,,Dicko,3642402,2023279,Brikama Campus,Diploma in Early Childhood Education,Year 1,,,Region 5,Bansang,Solo Basic cycle school,Region 5,Bansang,Bansang LBS
 TRUE,8/5/2021 20:15:55,Amat,,Nyang,7843498,2021744,Brikama Campus,Diploma in Education Islamic,Class/B,,,Region 1,,Tallinding LBS,Region 1,,Candiba LBS
 TRUE,8/5/2021 21:28:43,Kaddy,,Sonko,7529889,2021234,Brikama Campus,Diploma in Education Primary,F,,,Region 1,Madi fatty,Latrikunda yerigaya,Region 2,Faraba Banta,Pirang LBS
 TRUE,8/5/2021 22:20:13,KHADDY,,NYASSI,3513631,20221056,Brikama Campus,Advanced Diploma in Education Secondary,GROUP O,SES,PE,Region 2,BRIKAMA,BRIKAMA UPPER AND SENIOR SECONDARY SCHOOL ,Region 2,JAMISA,JAMISA UPPER AND SENIOR SECONDARY SCHOOL 
 TRUE,8/6/2021 1:10:11,Arafang ,,Sowe,3417695,2021870,Brikama Campus,Diploma in Education Primary,I class room 9,,,Region 3,Kerewan,Kerr Hali Hawa LBS,Region 2,Bakary Sambouya,Bakary Sambouya LBS
-TRUE,8/6/2021 9:43:54,ISATOU ,No,DAMBEL ,3473759,2023216,Brikama Campus,Diploma in Early Childhood Education,B,,,Region 2,Banyaka,Batokunku LBS,Region 2,Banyaka,Tujereng LBS
+TRUE,8/6/2021 9:43:54,ISATOU ,,DAMBEL ,3473759,2023216,Brikama Campus,Diploma in Early Childhood Education,B,,,Region 2,Banyaka,Batokunku LBS,Region 2,Banyaka,Tujereng LBS
 TRUE,8/6/2021 11:09:36,Musa,,Manneh,2015823,2021722,Brikama Campus,Diploma in Education Islamic,A class,,,Region 2,Brikama,Jeddah L B S,Region 2,Bakary sambouya,Tubakuta L B S 
 TRUE,8/6/2021 13:11:37,Maram,K,Mendy,3806682,2023219,Brikama Campus,Advanced Diploma in Education Primary,A class,,,Region 1,,Gammel  nursery school,Region 1,Lamin daraka,St Peter's nursery school
 TRUE,8/6/2021 13:31:07,Kinta,L,Mendy,2550938,2023234,Brikama Campus,Diploma in Early Childhood Education,D,,,Region 2,Busumbala Farato,Zevia Nursery School,Region 2,Jamisa,Jamisa Yuruwa Nursery School
@@ -601,7 +601,7 @@ TRUE,8/6/2021 14:46:13,OMAR ,,FADERA ,3850789,2021019,Brikama Campus,Diploma in 
 TRUE,8/6/2021 16:23:11,Mariama,,Drammeh,2852637,2021479,Brikama Campus,Diploma in Education Primary,Class A,,,Region 1,Latrikunda Sabiji,Latrikunda sabiji LBS,Region 2,Busumbala,Busumbala LBS
 TRUE,8/6/2021 16:34:11,Fatoumatta,M,Jallow,2555044,2023291,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 2,Sachaba sulayjobe,Bajen's memorial nursery School,Region 2,,Sukuta nursery School
 TRUE,8/6/2021 17:33:37,Awa,,Faal,5931918,2023188,Brikama Campus,Diploma in Early Childhood Education,Year 1,,,Region 2,Banjulnding,As salam,Region 2,Banjulnding,As salam
-TRUE,8/6/2021 18:59:39,Alieu,No middle name,Sowe,7360158,2022747,Brikama Campus,Advanced Diploma in Education Secondary,General ( N),S.E.S,P.E,Region 3,Farafenni cluster,Farafenni Senior Secondary School,Region 5,Kaur cluster,Jimbala Basic Cycle School
+TRUE,8/6/2021 18:59:39,Alieu,,Sowe,7360158,2022747,Brikama Campus,Advanced Diploma in Education Secondary,General ( N),S.E.S,P.E,Region 3,Farafenni cluster,Farafenni Senior Secondary School,Region 5,Kaur cluster,Jimbala Basic Cycle School
 TRUE,8/6/2021 19:17:30,Bubacarr ,,Gaye,5240898,2023262,Brikama Campus,Diploma in Early Childhood Education,B class,,,Region 5,,Bansang Lower Basic School,Region 5,,
 TRUE,8/6/2021 19:55:43,Kumba,,Khan,3076532,2023196,Brikama Campus,Diploma in Early Childhood Education,B class ,,,Region 5,Bansang ,Bansang lower basic school ,Region 5,Bansang ,Bansang lower basic school 
 TRUE,8/6/2021 22:24:41,Musa,,Conteh,7162380,20211189,Brikama Campus,Diploma in Education Primary,Diploma subjects,,,Region 6,Wuli East,Foday kunda lbs,Region 6,Wuli East,Bantunding lbs
@@ -619,8 +619,316 @@ TRUE,8/8/2021 16:11:15,Hadijatou,,Choi,5258965,2021924,Brikama Campus,Diploma in
 TRUE,8/8/2021 21:13:25,Sainabou,,Sowe,2375214,20211162,Brikama Campus,Diploma in Education Primary,,,,Region 5,,Annish kunda,Region 5,Jarreng,Annish kunda
 TRUE,8/8/2021 21:43:01,Sirreh ,,Fatty,2357359,20211146,Brikama Campus,Diploma in Education Primary,K class,English,Science,Region 1,,Bakau school,Region 1,,Bakau school
 TRUE,8/9/2021 9:13:12,Sheriff ,,Jobarteh ,7164897,20211387,Brikama Campus,Diploma in Education Primary,,,,Region 2,,Busumbala farato LBS,Region 2,,Busumbala Farato LBS
-TRUE,8/9/2021 12:00:29,Nyima,Bojang,Bojang,3335645,2021365,Brikama Campus,Diploma in Education Islamic,No,,,Region 2,Youdom,New yodom,Region 2,Yodam,Yodom L B s
+TRUE,8/9/2021 12:00:29,Nyima,,Bojang,3335645,2021365,Brikama Campus,Diploma in Education Islamic,No,,,Region 2,Youdom,New yodom,Region 2,Yodam,Yodom L B s
 TRUE,8/9/2021 14:24:59,Yaya,,Mbakeh,7001340,2021827,Brikama Campus,General Diploma in Education Amana,Male,,,Region 5,Jarumeh koto ,Jamali LBS,Region 5,Jarumeh koto ,Kibiri LBS
 TRUE,8/9/2021 15:58:18,Augustina,,Mendy,5865804,20211410,Brikama Campus,Diploma in Education Primary,,,,Region 2,,Presentation of Mary Bcs,Region 2,,Jamisa Lbs
 TRUE,8/9/2021 22:50:40,Mariama,,Drammeh,2292575,2021633,Brikama Campus,Diploma in Education Islamic,E class,,,Region 1,Old Jeshwang,Old Jeshwang,Region 2,Banyaka,Tanjeh LBS
 TRUE,8/9/2021 23:30:21,Jainaba ,,Sakoli,2056610,2021599,Brikama Campus,Diploma in Education Primary,H,,,Region 6,Wuli east,Baja kunda lbs,Region 6,Wuli east,Baja kunda
+TRUE,7/14/2021 22:05:06,Kaddy,,Danso,7859039,2023171,Brikama Campus,Diploma in Early Childhood Education,A class,,,Region 5,Kudang,Niamina sotokoi,Region 5,Kudang,Niamina sotokoi
+TRUE,7/14/2021 22:16:57,Jainaba,,Keita,2279120,20221027,Brikama Campus,Advanced Diploma in Education Secondary,J,Science,English,Region 2,,Samasang technical UBS,Region 2,,
+TRUE,7/14/2021 22:31:51,Fafa,,Secka,3435692,2022824,Brikama Campus,Advanced Diploma in Education Secondary,General Group (P),S.E.S,P.H.E,Region 1,Ngayen Sanjal cluster 1,Ngayen Sanjal U.B.S and S.S.S,Region 3,Ngayen Sanjal cluster 1,Ngayen Sanjal U.B.S and S.S.S
+TRUE,7/14/2021 22:43:38,Yerow,S,Sowe,5380828,20211036,Brikama Campus,Diploma in Education Primary,Class k (G)4,,,Region 2,JABANG CLUSTER,St.Aidan's BCS,Region 2,JABANG CLUSTER,Youna BCS
+TRUE,7/14/2021 22:49:05,Yankuba,,Darboe,3424316,20211005,Brikama Campus,Diploma in Education Primary,Group N,,,Region 4,Pakaliba,Pakaliba Basic cycle school,Region 2,Kabafita,Kabafita LBS
+TRUE,7/14/2021 23:25:48,Sirra,,Jome,5807618,2021838,Brikama Campus,Diploma in Education Primary,Class J,,,Region 3,Cluster 11: Essau cluster,St. Mathews BCS,Region 3,Cluster 11: Essau cluster,Essau LBS
+TRUE,7/14/2021 23:29:17,Haddy,,Kah,5865212,2021866,Brikama Campus,Diploma in Education Primary,Class:B/GroupB,,,Region 3,Pa modou sallah,Medina sering mass lower basic school,Region 3,Pa modou sallah,Medina sering mass lower basic school
+TRUE,7/14/2021 23:38:51,Alhagie,,Loum,2029473,20211151,Brikama Campus,Diploma in Education Primary,,,,Region 4,,Dingerai LBS,Region 4,,Wassu LBS
+TRUE,7/14/2021 23:45:16,Muhammed,,Touray,3454128,20221114,Brikama Campus,Advanced Diploma in Education Secondary,Group K,Mathematics,Science,Region 2,Busumbala Farato,Mingdaw Junior And Senior Secondary School,Region 2,Busumbala Farato,Yalding Basic Cycle School
+TRUE,7/14/2021 23:51:16,Muhammed ,,Gaye,2329475,2021147,Brikama Campus,Diploma in Education Primary,E,,,Region 3,Ngayen Sanjal cluster,Ngayen Sanjal,Region 3,Ngayen sanSan cluster,Ngayen Sanjal
+TRUE,7/14/2021 23:57:33,Aji Mariama,,Sarr,2451949/3352666,2022107,Brikama Campus,Advanced Diploma in Education Secondary,General J,Home science,Science,Region 3,Medina Sering Mass Cluster,Medina Sering Mass,Region 3,Medina Sering Mass Cluster,Responder updated this value. Medina Sering Mass
+TRUE,7/15/2021 0:30:13,Ebrima,,Kassama,3615836,2022734,Brikama Campus,Advanced Diploma in Education Primary,B,SES,SCIENCE,Region 3,Njaba kunda cluster,BANNI LBS,Region 3,Njaba kunda cluster,SALIKENNI LBS
+TRUE,7/15/2021 0:28:28,Sainey,,Kinteh,2737908,20211161,Brikama Campus,Diploma in Education Primary,,,,Region 3,,Kinteh kunda Lbs,Region 3,,Saaba Lbs
+TRUE,7/15/2021 1:30:13,Ousman,,Sowe,3254353,2021014,Brikama Campus,Diploma in Education Primary,,,,Region 2,Faraba,Pirang L B S,Region 2,,Kuloro L B S
+TRUE,7/15/2021 2:06:35,Adama,,Jallow,5871149,20221028,Brikama Campus,Advanced Diploma in Education Secondary,o,SES,PHE,Region 3,ebrima .c. njie prin 2152006/3705288,Fass UBS/SSS,Region 2,Bakary sambouya cluster,yundum barracksUB/SSS
+TRUE,7/15/2021 2:10:14,Muhammed,H,Camara,7277123,20221108,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,English,Region 6,Fulladu,Numuyel UB/SSS,Region 2,Farato/Busumbala,Yunus English School
+TRUE,7/15/2021 2:17:24,Ajie,,Jallow,3120227,2021900,Brikama Campus,Diploma in Education Primary,I,,,Region 2,Brikama,Jiddah Lower Basic School,Region 2,Brikama,Jiddah Lower Basic School
+TRUE,7/15/2021 2:45:35,Kebba ,,kebbeh,2461826,20211307,Brikama Campus,Diploma in Education Primary,Group G,,,Region 3,,Sinchu njabo lower basic school,Region 4,,Farafenni lower basic school
+TRUE,7/15/2021 4:54:17,Modou,B,Njie,3020834,20221100,Brikama Campus,Advanced Diploma in Education Secondary,A,Physical education,Agriculture science,Region 3,Essau cluster,Essau Sss,Region 2,Birkama,Birkama UB/Sss
+TRUE,7/15/2021 9:55:24,Kaddijatou,,Colley,3756127,2021136,Brikama Campus,Diploma in Education Primary,Class E,,,Region 4,Soma,Notre Dame,Region 4,Soma,Soma LBS
+TRUE,7/15/2021 10:05:01,Adam,,Njie I,2819691,2022864,Brikama Campus,Advanced Diploma in Education Secondary,(A),Agriculture,Home science,Region 3,Ngayen Sanjal,Ngayen Sanjal,Region 3,Ngayen Sanjal,Ngayen Sanjal
+TRUE,7/15/2021 10:25:54,Isatou,E,Jarju,5950867,20211253,Brikama Campus,Diploma in Education Primary,Room 3,English language,English language,Region 2,,Brufut LBS,Region 2,,Brufut LBS
+TRUE,7/15/2021 10:32:05,Mariama,,Gibba,5893231,2021250,Brikama Campus,Diploma in Education Primary,Class c,,,Region 2,,,Region 2,,
+TRUE,7/15/2021 10:34:01,Sainey,,Colley,3434010,2022116,Brikama Campus,Advanced Diploma in Education Secondary,K,Science,Physical Health Education,Region 2,Lamin Daranka,John Pickering Comphensive Junior and Senior Secondary School,Region 2,Lamin Daranka,John Pickering Comphensive Junior and Senior Secondary School
+TRUE,7/15/2021 11:19:01,Ebrima,,Sarr,3085475,2022961,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 3,11,St Mathews,Region 3,11,Essau senior secondary school
+TRUE,7/15/2021 11:34:46,Samba,,Jallow,5887454,2022004,Brikama Campus,Advanced Diploma in Education Secondary,H,Sciene,Agric,Region 5,,Niamina senior secondary school,Region 5,,Dankunku
+TRUE,7/15/2021 11:41:03,Yai,,Saidy,3250138,2022183,Brikama Campus,Advanced Diploma in Education Secondary,Group D,English,SES,Region 2,Brufut,Brufut UB/ SSS,Region 2,Brufut,Brusubi UB/ SSS
+TRUE,7/15/2021 13:04:16,Bintou,,Gaye,7986236,2022925,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agriculture,Region 3,Ngayen sanjal,Ngayen sanjal,Region 3,Ngayen sanjal,Ngayen
+TRUE,7/15/2021 13:27:18,Demba,,Njie,2620797,2022943,Brikama Campus,Advanced Diploma in Education Secondary,B,English,PHE,Region 5,Panchang,Nyanga bantang basic cycle school,Region 5,Panchang,Chamen upper&Senior secondary school
+TRUE,7/15/2021 13:30:20,LAMIN,S,KANYI,3227366,2022832,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 4,KIANG KARANTABA CLUSTER,KIANG KARANTABA UBS/SSS,Region 4,KIANG KARANTABA CLUSTER,JANNEH KUNDA BASIC CYCLE
+TRUE,7/15/2021 13:39:20,Sarjo,,Joof,3610849,20221378,Brikama Campus,Advanced Diploma in Education Secondary,General group P,SES,PHE,Region 2,Busumbala Farato,New Yundum upper basic school,Region 2,Busumbala Farato,Yunus upper basic school
+TRUE,7/15/2021 13:49:06,Mamadou,A,Sowe,3338971,2022340,Brikama Campus,Advanced Diploma in Education Secondary,C,SES,English language,Region 2,Faraba banta,Jersey UB/SSS,Region 2,Ndemban,Somita UB/SSS
+TRUE,7/15/2021 13:54:43,Dawda,,Sanyang,3339894,2022942,Brikama Campus,Advanced Diploma in Education Secondary,C,Ses,English,Region 2,Faraba banta,Jersey UB/SSS,Region 2,Ndemdan,Somita UBS
+TRUE,7/15/2021 14:23:53,Isatou,Jawneh,Marena,5902629,2021123,Brikama Campus,Diploma in Education Primary,Diploma year 1 Class C,,,Region 2,Banyanka Cluster,Tujereng lower basic school,Region 2,,
+TRUE,7/15/2021 14:31:36,Jainaba,,Bah,3436661,2022440,Brikama Campus,Advanced Diploma in Education Secondary,A,Agric,PHE,Region 2,Busumbala farato,Busumbala farato UBS,Region 2,Busumbala farato,yunus english UBS
+TRUE,7/15/2021 14:51:34,Dominic,,Sylva,3816164,2022948,Brikama Campus,Advanced Diploma in Education Secondary,A,Social and Environmental Studies,Christian Religious Education,Region 2,Banyaka,St. Francis junior and senior secondary school,Region 2,Banyaka,Sanyang UBS/SSS
+TRUE,7/15/2021 15:23:59,Mahawa,,Sowe,5134330,2021946,Brikama Campus,Diploma in Education Primary,Class E,,,Region 2,Brikama,Kabafita Lower Basic school,Region 2,Brikama,Henriette lower Basic school
+TRUE,7/15/2021 16:09:57,Mariama,,Badjie,5079730,2021621,Brikama Campus,Diploma in Education Primary,class c,,,Region 2,busumbala farato cluster,busumbala lower basic school,Region 2,old yundum cluster,old yundum Lower basic school
+TRUE,7/15/2021 16:51:19,Ebrima,J,Baldeh,2743004,2022817,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agric science,Region 2,Sukuta Nema cluster,Nemasu upper and senior secondary School,Region 2,Sukuta Nema,Sukuta upper and senior secondary School
+TRUE,7/15/2021 17:25:43,FANTA,,GAYE,3207996,20221292,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Home science,Region 2,Faraba banta,Kuloro upper basic school,Region 2,Brikama,Saamasang technical UB /SSS
+TRUE,7/15/2021 17:50:10,KEBBA,,JOBE,7491667,20221283,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 4,SOMA CLUSTER,TAHIR AHMADDIYA UBS/SSS,Region 4,SOMA CLUSTER,PAKALINDING UBS SOMA
+TRUE,7/15/2021 18:54:33,Alagie,Ebrima,Njie,5133886,2022872,Brikama Campus,Advanced Diploma in Education Secondary,General B,English,Science,Region 2,Brufut,Brufut UB/SSS,Region 2,Banyaka,Tujereng UB/SSS
+TRUE,7/15/2021 18:59:27,Landing,,Colley,3330628,2022129,Brikama Campus,Advanced Diploma in Education Secondary,B,English,PHE,Region 2,Faraba Banta cluster,Faraba Banta,Region 2,Faraba Banta cluster,Pirang
+TRUE,7/15/2021 19:06:48,SANNA,M.,KANYI,2902495,20221290,Brikama Campus,Advanced Diploma in Education Secondary,C,ENGLISH LANGUAGE,SES,Region 3,FARAFENNI CLUSTER,FARAFENNI SENIOR SECONDARY SCHOOL,Region 4,SOMA CLUSTER,TAHIR SENIOR SECONDARY SCHOOL
+TRUE,7/15/2021 19:31:52,Fatoumata,K,Jawo,3412833,2022988,Brikama Campus,Advanced Diploma in Education Secondary,P,PE,S E S,Region 5,Yahya faal,Jareng U B S,Region 5,Yahay faal,Kudang U B S
+TRUE,7/15/2021 19:33:32,Kaddy,,Gaye,2958596,20221047,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agric,Region 3,Ngayen sanjal cluster,Ngayen sanjal,Region 3,Ngayen sanjal cluster,Ngayen sanjal
+TRUE,7/15/2021 20:01:55,Muso,Janet C,Sambou,3182596,20221125,Brikama Campus,Advanced Diploma in Education Secondary,D,SES,Home Science,Region 2,Old yundum,Old Yundum Upper Basic School,Region 2,Banjulinding,Yundum Barracks Upper Basic School
+TRUE,7/15/2021 20:10:30,Modou,Lamin,Badjie,5256925,2022205,Brikama Campus,Advanced Diploma in Education Secondary,Male,Mathematics,Science,Region 2,Jamisa,Anne Marie rivier basic cycle school,Region 2,Jamisa,Anne Marie rivier basic cycle school
+TRUE,7/15/2021 20:11:48,Pateh,,Sowe,7450260,2021423,Brikama Campus,Diploma in Education Primary,J class,,,Region 3,Matarr Ndow,Bakalarr lower basic school,Region 1,Safiyong Touray,Latrikunda sabiji
+TRUE,7/15/2021 20:17:30,Lamin,,Sanyang,3776646,2022377,Brikama Campus,Advanced Diploma in Education Secondary,General N,SES,ARTS,Region 2,Brikama cluster,Brikama UB/SSS,Region 2,Jamisa cluster,Jamisa UB/SSS
+TRUE,7/15/2021 20:48:47,Kebba,,Kebbeh,2461826,20211308,Brikama Campus,Advanced Diploma in Education Primary,Group G,ENGLISH LANGUAGE,SES,Region 3,Ebrima jarra,Sinchu njabo lower basic school,Region 3,Ngaga keita,Farafenni lower basic school
+TRUE,7/15/2021 20:49:45,Kabou,,Ceesay,7997056,20221376,Brikama Campus,Advanced Diploma in Education Secondary,(p),S E S,P E,Region 2,Busumbala farato,Yunus English school,Region 2,Banjulinding,Kunkujang keitaya
+TRUE,7/15/2021 21:02:57,Aji,Nyima,Marr,3189177,20221302,Brikama Campus,Advanced Diploma in Education Secondary,A,English,Agriculture,Region 1,Latirkunda sabiji,Future Generation Senior Secondary,Region 1,Latirkunda Sabiji,Future Generation Senior Secondary
+TRUE,7/15/2021 21:27:08,Fatou,B,Jallow,7991913,20211125,Brikama Campus,Diploma in Education Primary,F,,,Region 3,Farafenni cluster,ST JOHN BSC,Region 2,BRIkAMA,BRIKAMA LBC
+TRUE,7/15/2021 21:36:01,Nuha,,Sallah,3479230,2022019,Brikama Campus,Advanced Diploma in Education Secondary,A,SES,MATHS,Region 2,Brikama,Brikama UB/SSS,Region 2,Brikama,Saamasang Technical UB/SSS
+TRUE,7/15/2021 21:58:17,Mustapha,,Gibba,3659883,2122005,Brikama Campus,Advanced Diploma in Education Secondary,A,English,PHE,Region 2,Sibanor,Arangallen basic cycle school,Region 2,Sibanor,Tambakunda upper basic school
+TRUE,7/15/2021 22:24:46,Mahay,,Cham,7297176,2022055,Brikama Campus,Advanced Diploma in Education Secondary,B,English,Ph. E,Region 1,Old jeshwang,Kanifing east,Region 1,Old jeshwang,Kanifing east
+TRUE,7/15/2021 23:20:49,Ebrima,,Dampha,3122102,2221002,Brikama Campus,Diploma in Education Primary,I,N/A,N/A,Region 5,Momodou l suwaneh,Sofanyama,Region 5,Mamodou I suwaneh,Sofanyama
+TRUE,7/15/2021 23:28:19,Kaddy,,Manjang,3872864,20211139,Brikama Campus,Diploma in Education Primary,H Class,,,Region 2,Brufut Cluster,Brufut lower Basic school,Region 4,Karantaba (Kiang),Janneh kunda lower Basic School
+TRUE,7/15/2021 23:44:03,Abdoulie,,Boye,3409250,2022392,Brikama Campus,Advanced Diploma in Education Secondary,H,Agricultural science,General science,Region 5,Matarr faal,Boiram basic cycle school,Region 2,Birkama,Kabafita UB/SSS
+TRUE,7/16/2021 0:04:10,SIAKA,,SILLAH,3134920,2022838,Brikama Campus,Advanced Diploma in Education Secondary,GENERAL GROUP B,ENGLISH,PHYSICAL EDUCATION,Region 2,BUSUMBALA FARATO,YALDING BASIC CYCLE SCHOOL.,Region 2,BUSUMBALA FARATO,SDA BASIC CYCLE SCHOOL
+TRUE,7/16/2021 2:22:14,Mariama,,Kebbeh,5136101,2023060,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 5,Karantaba,Gallemanda,Region 5,Sankulay kunda,Gallemanda
+TRUE,7/16/2021 10:22:29,Muhammed,L,Sanneh,5915020,2021139,Brikama Campus,Diploma in Education Primary,C,,,Region 2,Brufut,Brusubi lower basic school,Region 2,Brufut,Wullikamma jo evans lower basic school
+TRUE,7/16/2021 11:17:38,Paul,,Joof,3552445,20221147,Brikama Campus,Advanced Diploma in Education Secondary,D,English,SES,Region 1,Bakou,Aji SUKAI NTATEH MEMORIAL SENIOR SECONDARY SCHOOL,Region 4,Soma,Notre Dame BCS
+TRUE,7/16/2021 11:31:04,Rubi,,Jawo,5089880,2023267,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 5,Pallang Lower Basic School,Pallang Lower Basic School,Region 5,Pallang Lower Basic School,
+TRUE,7/16/2021 12:03:00,Isatou,L,Manneh,7728963,20211249,Brikama Campus,Diploma in Education Primary,Class c,,,Region 2,,Brikama LBS,Region 2,,Mansacolley
+TRUE,7/16/2021 12:28:21,Fatou,M,Sanneh,3439082,2021962,Brikama Campus,Diploma in Education Primary,H class,,,Region 2,Ndemban,St John vianney basic cycle school,Region 2,Ndemban,Jamba jelly
+TRUE,7/16/2021 12:34:47,Fidel,,Gomez,3955347,20221383,Brikama Campus,Advanced Diploma in Education Secondary,N,ART,SES,Region 2,,Jamisa Upper Basic and Senior Secondary School,Region 2,,Sifoe Upper Basic and Senior Secondary School
+TRUE,7/16/2021 12:38:29,Fanny,Clementine,Jatta,3121264,20211121,Brikama Campus,Advanced Diploma in Education Primary,L,,,Region 2,Banyaka,Tujereng LBS,Region 2,Banyaka,St. Francise LBS
+TRUE,7/16/2021 12:43:43,Kuru,,Darboe,3140657,20211267,Brikama Campus,Diploma in Education Primary,A,,,Region 4,Pakaliba,Bureng LBS,Region 4,Pakaliba,Dasilameh LBS
+TRUE,7/16/2021 12:58:28,Sira,,Jawo,3317428,2022373,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PE,Region 4,S0ma,Misera BCS,Region 4,Soma,Soma UBS/SSS
+TRUE,7/16/2021 13:04:50,Ndumbeh,,Secka,7236255,20211154,Brikama Campus,Diploma in Education Primary,C,,,Region 1,Serrekunda,Talinding LBS,Region 2,Brufut,Brusubi LBS
+TRUE,7/16/2021 13:07:41,Sohna ,,Jaw,7964647,20211426,Brikama Campus,Advanced Diploma in Education Primary,J,,,Region 4,Soma,Badumeh kuta LBS,Region 4,Soma,Badumeh kuta LBS
+TRUE,7/16/2021 13:10:16,Mamadou,,kebbeh,5341327,20211226,Brikama Campus,Diploma in Education Primary,MRC room 17 M class,,,Region 2,Busumbala farato,New yundum,Region 1,St. charleslwagan,Abuko LBS
+TRUE,7/16/2021 13:42:53,Musa,M,Darboe,3621961,20211041,Brikama Campus,Diploma in Education Primary,E,,,Region 2,Gunjur,Siffoe lower basic school,Region 2,Bakary sambouya,St patrick's
+TRUE,7/16/2021 13:43:55,Fatoumata,,Daffeh,7033108,2021074,Brikama Campus,Diploma in Education Primary,Class c,,,Region 2,,Busunbala farato(kokum) LBS,Region 2,,Busunbala farato(kokum) LBS
+TRUE,7/16/2021 14:14:54,Anthony,,Gomez,3144296,2022896,Brikama Campus,Advanced Diploma in Education Secondary,A,S.E.S,C.R.E,Region 2,Jamisa,St Vincent UBS/SSS,Region 2,Banyaka,Sanyang UBS/SSS
+TRUE,7/16/2021 14:21:26,sainabou,,john,3940790,2021966,Brikama Campus,Diploma in Education Primary,Class O,,,Region 2,,makumbaya LBS,Region 2,,yundum barracks L B S
+TRUE,7/16/2021 14:22:28,Fatou,,Beyai,7367415,2021095,Brikama Campus,Diploma in Education Primary,N class,,,Region 2,Brikama,Henriette LBS,Region 4,Kiang karantaba,Karantaba(kiang)
+TRUE,7/16/2021 14:24:13,Amadou,,Faye,7108462,2021087,Brikama Campus,Diploma in Education Primary,H class,,,Region 5,,Bantanto L B S,Region 5,,Bantonto L B S
+TRUE,7/16/2021 14:26:54,Badjie,,Horija,3817024,20211087,Brikama Campus,Diploma in Education Primary,L,,,Region 2,Banjullinding,Asslam,Region 2,Kanilai,St Anthonic
+TRUE,7/16/2021 14:31:47,Fatoumatta,,Dembajang,3197984,20211209,Brikama Campus,Advanced Diploma in Education Primary,D,,,Region 2,Brufut,Brufut lower basic school,Region 2,Brufut,Brufut lower basic school
+TRUE,7/16/2021 14:43:18,Soriya,,Saho,3419851,20221355,Brikama Campus,Advanced Diploma in Education Secondary,B,Science core,English language,Region 1,Kebba manneh,St charlse,Region 1,Safiyong Touray,Latrikunda sabiji
+TRUE,7/16/2021 14:45:20,Jainaba,,Sowe,3576567/2315405,2022348,Brikama Campus,Advanced Diploma in Education Secondary,I,G/science,Agricultural science,Region 3,Njaba kunda cluster,Kerr pateh UBS/SSS,Region 2,Brikama cluster,Kabafita UBS/SSS
+TRUE,7/16/2021 15:06:36,Kutubo,,Badjie,3479143,20221234,Brikama Campus,Advanced Diploma in Education Secondary,B,Science,English,Region 2,Sibanor,St Edward's UBS,Region 2,Brikama,Brikama UBS
+TRUE,7/16/2021 15:10:48,Jalima,,Sallah,5210398,2021951,Brikama Campus,Diploma in Education Primary,E,,,Region 1,Serrekunda,Serrekunda,Region 1,Serrekunda,Bundung
+TRUE,7/16/2021 15:15:26,Kebba,,Ndow,7181258,2021439,Brikama Campus,Diploma in Education Primary,I class,,,Region 3,Ndungu kebbeh cluster,Medina modum LBS,Region 3,Ndungu kebbeh cluster,Ndungu kebbeh LBS
+TRUE,7/16/2021 16:14:19,Bubacarr,,Jallow,2712045/3076566,2022931,Brikama Campus,Advanced Diploma in Education Secondary,Six (6),S.E.S,P.E,Region 2,,Berefet cluster,Region 2,Berefet cluster,Jamisa
+TRUE,7/16/2021 16:34:32,Jonsoba,,Colley,3268783,2021060,Brikama Campus,Diploma in Education Primary,P,,,Region 2,West Coast Region,Sangany LBS,Region 4,Kwinella,Sibito LBS
+TRUE,7/16/2021 16:35:19,Naba,,Sambou,5367599,2022289,Brikama Campus,Advanced Diploma in Education Secondary,O,Agric science,G/science,Region 2,Bondali,St john boscos BCS,Region 2,Bondali,St john boscos BCS
+TRUE,7/16/2021 16:43:18,Therese,,Jassey,3595485,2022125,Brikama Campus,Advanced Diploma in Education Secondary,N,SES,ARTS,Region 2,Faraba banta,Faraba banta basic cycle school,Region 2,Brikama,Brikama upper
+TRUE,7/16/2021 16:43:06,Fatou,A,Jobe,3605694,20211134,Brikama Campus,Diploma in Education Primary,Class A,,,Region 4,Pakaliba,Bureng Lower Basic School,Region 4,Pakaliba,Bureng Lower Basic School
+TRUE,7/16/2021 17:11:56,Fatou,,Jawo,3476671,2021431,Brikama Campus,Diploma in Education Primary,Class E,,,Region 2,Brikama,Brikama kembujeh ABC LBS,Region 2,Brikama,Brikama kembujeh ABC LBS
+TRUE,7/16/2021 17:25:41,Elizabeth,,Preirra,3764481,2021142,Brikama Campus,Diploma in Education Primary,L,,,Region 1,,St. Thereses LBS,Region 1,,St. Charles LBS
+TRUE,7/16/2021 17:28:45,Magret,,Jatta,5882804,20211363,Brikama Campus,Diploma in Education Primary,L,,,Region 1,,St. Thereses LBS,Region 1,,St. Charles LBS
+TRUE,7/16/2021 18:31:42,Fanding,,kassama,3736810,2021930,Brikama Campus,Diploma in Education Primary,,,,Region 2,Jamisa,Jamisa LBS,Region 3,Kerewan,Kerewan BCS
+TRUE,7/16/2021 18:45:20,Lamin,,Njie,3960482,2021635,Brikama Campus,Diploma in Education Primary,O class,,,Region 5,Madina,Dingerai lower basic school,Region 3,Fass,Mbankham lower basic school
+TRUE,7/16/2021 20:07:15,KALIFA,,JAITEH,2342628,2021669,Brikama Campus,Diploma in Education Islamic,E CLASS,,,Region 5,MADINA,KUNTAUR LOWER BASIC SCHOOL,Region 5,MADINA,KUNTAUR LOWER BASIC SCHOOL
+TRUE,7/16/2021 20:35:28,Sheriffo,,Ceesay,3723974,20221180,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE,Region 2,Lamin Daranka cluster,St Peter's UBS/SSS,Region 2,Lamin Daranka cluster,Kombo kerewan UBS/SSS
+TRUE,7/16/2021 20:50:48,Kaddy,,Jammeh,2592242,2021732,Brikama Campus,Diploma in Education Islamic,A,,,Region 2,Old Yundum,Busumbala Lower Basic School,Region 2,,Old Yundum Lower Basic School
+TRUE,7/16/2021 21:42:03,Jarry,,Badjie,3715031,2022841,Brikama Campus,Advanced Diploma in Education Secondary,B,English,Physical education,Region 1,TALINDING ANNEX: Antouman Nying,TALINDING UBS,Region 1,TALINDING ANNEX: Antouman Nying,TALINDING UBS
+TRUE,7/16/2021 21:54:33,Amie,,Kanteh,2245209,20221303,Brikama Campus,Advanced Diploma in Education Secondary,N,S E S,P H E,Region 2,Brikama,Kabafita upper basic school,Region 2,Jamisa,Jamais upper basic school
+TRUE,7/16/2021 22:52:34,SiakS,,CAMARA,3835754,20221272,Brikama Campus,Advanced Diploma in Education Secondary,I,AgriculturAG SCIENCE,GENERAL,Region 2,2,Sukuta UBS,Region 2,2,Sukuta SSS
+TRUE,7/16/2021 23:19:11,Wuday,,SANNEH,5127714,20211031,Brikama Campus,Diploma in Education Primary,K class,,,Region 2,Brikama,Henrietta lbs,Region 2,Gunjur,Sanyang lbs
+TRUE,7/16/2021 23:28:42,Baboucarr,,Sarge,2759108,2021857,Brikama Campus,Diploma in Education Primary,Class O,,,Region 5,Madina,Dingerai lower basic school,Region 3,Fass,Mbankham lower basic school
+TRUE,7/16/2021 23:52:23,Kaddy,,Kanyi,3013334,2021770,Brikama Campus,Diploma in Education Primary,I,,,Region 4,Pakaliba,Jappineh LBS,Region 4,Pakaliba,Jappineh LBS
+TRUE,7/17/2021 0:00:39,Nyima,,Jatta,5855022,2021452,Brikama Campus,Diploma in Education Primary,H,,,Region 1,Bundung,Bundung lower basic school,Region 2,Lamin daranka,St.peter's lower basic school
+TRUE,7/17/2021 0:10:41,Mariama,,Trawally,5934644,2021892,Brikama Campus,Diploma in Education Primary,I,,,Region 3,Fass cluster,Mbulum lbs,Region 3,Fass cluster,Mbulum lbs
+TRUE,7/17/2021 0:14:34,Muhammed,,Ceesay,7602594,20211369,Brikama Campus,Diploma in Education Primary,L Class,,,Region 1,Bijilo Cluster,Sukuta Bannsee Basic Cycle School,Region 1,Bijilo,Abba Bilingual International School
+TRUE,7/17/2021 0:24:37,Fatoumatta,,Sanyang,7380543,2022011,Brikama Campus,Advanced Diploma in Education Secondary,General F,English,SES,Region 2,New yundum upper basic school,New yundum upper basic school,Region 2,Busumbala Farato upper basic school,Busumbala Farato upper basic school
+TRUE,7/17/2021 1:13:53,Ebou,,Ndong,3185573,2022322,Brikama Campus,Advanced Diploma in Education Secondary,G,Agricultural science,Christian religion knowledge,Region 2,Bollock,St john vianney jenior and secondary school,Region 1,Darsilami,Darsilami upper basic school
+TRUE,7/17/2021 8:39:56,fatou,,badjie,3103490,20211015,Brikama Campus,Diploma in Education Primary,H/ group3,,,Region 2,ndenban,sutusinjana,Region 2,ndemban,kanuma
+TRUE,7/17/2021 10:58:03,Mabintou,,Mendy,5200919,20221384,Brikama Campus,Advanced Diploma in Education Secondary,A,SES,CRE,Region 2,,Jamisa UBS,Region 2,Responder updated this value. brikama,Responder updated this value. Brikama kabafita ubs
+TRUE,7/17/2021 11:16:44,Nelson,,Manneh,3230081,2022775,Brikama Campus,Advanced Diploma in Education Secondary,A,Agric science, English,Region 2, Brikama,Presentation UBS,Region 2, Brikama, Jamisa UBS/SSS
+TRUE,7/17/2021 10:57:55,Alieu,,Jarju,3577078,2022850,Brikama Campus,Advanced Diploma in Education Secondary,F,Agriculture,Science,Region 2,Brikama cluster,Saamasang senior secondary school,Region 2,Brikama cluster,Brikama upper and senior secondary school
+TRUE,7/17/2021 11:02:04,Abdoulie,S.,Camara,2402566,2022857,Brikama Campus,Advanced Diploma in Education Secondary,H,Agricultural Science,Science,Region 2,,Mansa Colly Bojang upper Basic School,Region 2,,Penyem Technical upper and senior secondary School
+TRUE,7/17/2021 11:11:11,Ousman,L,Bah,3695822,2022318,Brikama Campus,Advanced Diploma in Education Secondary,D,English,SES,Region 1,Lamin Yaffa,St. Therese's upper basic school,Region 1,Madi Fatty,Latrikunda upper basic school
+TRUE,7/17/2021 11:23:52,Nusrat,S,Bah,3978128,2022080,Brikama Campus,Advanced Diploma in Education Secondary,K,Science,SES,Region 3,Farafenni cluster,St John's The Baptist,Region 3,Farafenni Cluster,Anglican mission
+TRUE,7/17/2021 11:24:03,Francis,A,Gomez,5834041,2022999,Brikama Campus,Advanced Diploma in Education Secondary,A,S.E.S,C.R.E,Region 2,Lamin daranka,Babylon UBS/SSS,Region 2,Jamisa,Brikama Methodist UBS /SSS
+TRUE,7/17/2021 11:25:57,Masanneh,,Jarju,3359411,2022124,Brikama Campus,Advanced Diploma in Education Secondary,A,Agricultural science,PHE,Region 2,Sibanor cluster,Sibanor UBS/SSS,Region 2,Sibanor cluster,Sibanor UBS/SSS
+TRUE,7/17/2021 11:26:42,Abdoulie,,Jenta,5022263,2021348,Brikama Campus,Diploma in Education Primary,M,,,Region 3,Farafenni,Ballinghor lower basic school,Region 3,Farafenni,Ballinghor lower basic school
+TRUE,7/17/2021 11:36:46,Louis,Anthony,Sambou,3375667,2022354,Brikama Campus,Advanced Diploma in Education Secondary,General C,S.E.S,English,Region 1,St.Charles L'wanga,St.charles L'wanga Upper Basic School,Region 2,Brufut,Brusubi Senior Secondary School
+TRUE,7/17/2021 11:38:20,Mariama,D,Bojang,7443723,20221364,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PE,Region 2,FARABA BANTANG,KULORO UBS,Region 2,FARABA BANTANG,KULORO
+TRUE,7/17/2021 11:39:37,Sarjo,,Sowe,7374716/3617157,2021004,Brikama Campus,Diploma in Education Primary,Class F,,,Region 2,Bondali,Kampassa LBS,Region 4,Nioro jattaba,Kataba LBS
+TRUE,7/17/2021 11:43:33,Fanta,,Touray,3571274,2021603,Brikama Campus,Diploma in Education Primary,Class A,,,Region 1,Abubacarr Bah,Bakau Newtown,Region 1,Biran Gai,Vital Preparatory
+TRUE,7/17/2021 11:47:05,Ansilick,,Mendy,3921786,2023218,Brikama Campus,Diploma in Early Childhood Education,D,,,Region 2,West Coast Region,SDA Seven days Advantage Nursery School,,,
+TRUE,7/17/2021 11:49:03,Mariama,,Manga,3801637,20221080,Brikama Campus,Advanced Diploma in Education Secondary,C,English,SES,Region 2,Kanfenda cluster,Kanfenda ahmadia Muslim basic cycle school,Region 2,,Sangajor basic cycle school
+TRUE,7/17/2021 11:54:07,Mariama,,Jallow,7682844,2022769,Brikama Campus,Advanced Diploma in Education Secondary,I,Science,Agricultural science,Region 2,Old yundum,Redimas,Region 2,Old yundum,Redimas
+TRUE,7/17/2021 12:05:52,Fatoumata,,Cham,3574616,2022986,Brikama Campus,Advanced Diploma in Education Secondary,General C,Agricultural Science,English Language,Region 2,Busumbala Farato,SDA BCS,Region 2,Busumbala Farato,SDA BCS
+TRUE,7/17/2021 12:11:28,Sarjo,,Sanneh,3158978,20221377,Brikama Campus,Advanced Diploma in Education Secondary,General H,Science,Agricultural science,Region 2,Jabang,Sotokoi tintinto BCS,Region 2,Jabang,St. Aidan's BCS
+TRUE,7/17/2021 12:20:00,Hawa,,Hydara,2113149,2022355,Brikama Campus,Advanced Diploma in Education Secondary,General H,Science,Agricultural science,Region 2,Busumbala farato,Yalding BCS,Region 2,Brikama,Kabafita UB/SSS
+TRUE,7/17/2021 12:21:40,Alhagie,Modou,Senghore,2938383,2022515,Brikama Campus,Advanced Diploma in Education Secondary,L,Science,S.E.S,Region 2,Brufut,Sukuta UB/SSS,Region 1,Bakoteh,Bakoteh UBS/SSS
+TRUE,7/17/2021 12:23:02,Salifu,,Darboe,3016605,2022293,Brikama Campus,Advanced Diploma in Education Secondary,O,S.E.S,P. E,Region 2,Brikama,Bottrop,Region 5,Karantaba,Cha-kunda UBS
+TRUE,7/17/2021 12:44:03,Muhammed,,Fadera,3907811,20221107,Brikama Campus,Advanced Diploma in Education Secondary,C,English,SES,Region 2,Brikama cluster,Kabafita UBS,Region 2,Brikama cluster,Brikama UBS
+TRUE,7/17/2021 13:28:59,Tida,,Janneh,2203989386,2022830,Brikama Campus,Advanced Diploma in Education Secondary,B,English language,home/science,Region 1,Safiyang Touray,Charles Jaw Memorial Academy,Region 5,Buba Sibi,Armitage Senior Secondary School
+TRUE,7/17/2021 14:01:30,Ebrima,,Bah,3370954,2022951,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PE,Region 2,Brikama,Saamasang UB/SSS,Region 2,Brikama,Brikama UB/SSS
+TRUE,7/17/2021 14:16:58,Mariama,,Colley,3996026,20221078,Brikama Campus,Advanced Diploma in Education Secondary,General B,English,Science,Region 4,Kwinella,Nema,Region 2,Ndemban Cluster,Sutusinjang BCS
+TRUE,7/17/2021 14:20:27,Saikou,,Jaiteh,2694441,2021624,Brikama Campus,Diploma in Education Islamic,Group e,Quran,Hadis,Region 2,Cluster 1,Brikama nema,Region 2,Cluster 2,Brikama LBS
+TRUE,7/17/2021 14:24:32,Bakary,,Jarju,3326263,2022912,Brikama Campus,Advanced Diploma in Education Secondary,H,Core science,Agric science,Region 2,Banyaka cluster,Tugereng upper Basic,Region 2,Banyaka,Tujereng UBS
+TRUE,7/17/2021 14:25:54,Lamin,M.,Fofana,2865123,20221289,Brikama Campus,Advanced Diploma in Education Secondary,C,English Language,SES,Region 4,Soma,Tahir Ahmaddiya UB/SSS,Region 2,Brufut,Brusubi UB/SSS
+TRUE,7/17/2021 14:39:45,Rohey,,Sowe,2753672,20211095,Brikama Campus,Diploma in Education Primary,K-class,,,Region 2,Musa jammeh,Brusubi lower basic school,Region 2,Musa jammeh,Brufut lower basic school
+TRUE,7/17/2021 14:49:21,Fatou,,Bah,2142701,2022182,Brikama Campus,Advanced Diploma in Education Secondary,A,Agriculture,ICT,Region 2,,Sinbanor,Region 2,,Penyem
+TRUE,7/17/2021 15:23:52,Mariama,,Jallow,5050178,20221304,Brikama Campus,Advanced Diploma in Education Secondary,G,Agric,PHE,Region 2,Brikama,Saamasang technical UBS/SSS,Region 2,Brikama,Kabifita UBS/SSS
+TRUE,7/17/2021 16:19:46,Mamadou,Korka,Jallow,2421148/ 3487885,20211454,Brikama Campus,Diploma in Education Primary,K class group Two (2),Non,Non,Region 1,Sinchu baliya,Sinchu baliya,Region 1,,wellingara
+TRUE,7/17/2021 16:36:40,YAMUNDOW,J,SANNEH,2448024,2022376,Brikama Campus,Advanced Diploma in Education Secondary,B,ENGLISH,PHE,Region 2,BRIKAMA,KABAFITA UB/SSS,Region 2,BRIKAMA,KINDERDORF BOTTROP TECHNICAL UB/SSS
+TRUE,7/17/2021 16:47:09,Jainaba,,Bojang,7010927,20211027,Brikama Campus,Diploma in Education Primary,F,,,Region 2,Busumala farato,Busumala farato LBS,Region 2,Jabang,Jambur LBS
+TRUE,7/17/2021 17:18:13,Fatou,,Touray,2092701,2022110,Brikama Campus,Advanced Diploma in Education Secondary,D,English,SES,Region 2,Jamisa,Maahad SSS,Region 2,Brikama,Brikama UBS/SSS
+TRUE,7/17/2021 17:39:06,Melisa,,Correa,7678204,20221089,Brikama Campus,Advanced Diploma in Education Secondary,C,English,Ses,Region 1,10,St. Charles lawanga ubs,Region 1,9,Latrikunda sabiji ubs
+TRUE,7/17/2021 17:41:38,Elizabeth,,Mbondeh,2479815,2022119,Brikama Campus,Advanced Diploma in Education Secondary,B,Home science,English Language,Region 2,Jamisa,Responder updated this value. Jamisa upper and senior,Region 2,Brufut cluster,Abba International
+TRUE,7/17/2021 19:27:58,Mam Jarra,,Secka,3334185,2021064,Brikama Campus,Diploma in Education Primary,B,,,Region 3,Ngayen sanjal,Ngayen sanjal l.b.s,Region 3,Ngayen sanjal,Ngayen sanjal l.b.s
+TRUE,7/17/2021 22:10:43,Nyillan,,Njie,3716666,20221354,Brikama Campus,Advanced Diploma in Education Secondary,B,Home Science,English language,Region 1,Kebba manneh,St Charles upper basic school,Region 1,Safiyong Touray,Latrikunda sabiji upper basic school
+TRUE,7/17/2021 22:55:06,Bintou,,Ndow,2092995,2021091,Brikama Campus,Diploma in Education Primary,K class,,,Region 5,Kaur,Simbara Khai,Region 5,Kaur,Simbara Khai
+TRUE,7/17/2021 22:59:27,Kaddy,,Dem,2956244,20221046,Brikama Campus,Advanced Diploma in Education Secondary,B,English language,PHE,Region 4,Soma,Buiba BCS,Region 3,Ngaga Keita,Farafenni UBS
+TRUE,7/17/2021 23:12:34,Mariama,,Chune,5070493,20211281,Brikama Campus,Diploma in Education Primary,H,,,Region 2,Brikama,Sinchu Alagie LBS,Region 2,Brikama,Kinkujang keitaya LBS
+TRUE,7/17/2021 23:18:33,Kaddijatou,E.,Jarju,379 6016,2022808,Brikama Campus,Advanced Diploma in Education Secondary,k,science,PHE,Region 2,,Brusubi,Region 2,,Brusubi
+TRUE,7/17/2021 23:34:45,Sama,,Sallimatta,3367035,2022552,Brikama Campus,Advanced Diploma in Education Secondary,C,English language,SES,Region 2,Brikama cluster,Brikama UB/SSS,Region 2,Brikama cluster,Brikama UB&SSS
+TRUE,7/17/2021 23:36:39,Fatoumata,S,Sanyang,3113469,2021688,Brikama Campus,Diploma in Education Islamic,D,,,Region 2,Faraba Banta,Faraba Banta BCS,Region 2,Lamin Daranka,Lamin Daranka lbs
+TRUE,7/17/2021 23:37:15,Ba kebba,S.,Jobarteh,5002508,2022428,Brikama Campus,Advanced Diploma in Education Secondary,C,English Language,S.E.S,Region 4,Soma,Soma U&SSS,Region 2,Kabafita,Kabafita U&SSS
+TRUE,7/17/2021 23:53:53,Mustapha,,Jallow,3799187,20221127,Brikama Campus,Advanced Diploma in Education Secondary,General D,SES,English,Region 1,Latrikunda sabiji,Charles JawMemorial Academy,Region 1,Latrikunda sabiji,Latrikunda sabiji UBS
+TRUE,7/18/2021 0:08:36,Edrissa,,Bah,3519393 or 2925645,2022839,Brikama Campus,Advanced Diploma in Education Secondary,B,Phe,English,Region 2,Brikama,Saamasang technical school,Region 2,,St John vianney junior and SSS
+TRUE,7/18/2021 0:10:08,Fanna,,Jeng,7781506/ 7840111,2022787,Brikama Campus,Advanced Diploma in Education Secondary,General (A),Agricultural science,English language,Region 3,Ndungu Kebbeh Cluster,Ndungu Kebbeh UBS/SSS,Region 2,Jamisa,Jamisa UBS/ SSS
+TRUE,7/18/2021 0:22:27,Dawda,,Sanyang,2277272,2021399,Brikama Campus,Diploma in Education Primary,,,,Region 2,Busumbala farato,New yundum LBS,Region 2,Lamin daranka,St.peter's LBS
+TRUE,7/18/2021 0:45:55,Jariatou,,Bah,3758448,2021347,Brikama Campus,Advanced Diploma in Education Islamic,C,,,Region 3,Ndugun kebbeh LBS,Kuntaya LBS,Region 1,Kuntaya LBS,Medina sering mass LBS
+TRUE,7/18/2021 1:02:09,Mam,,Darboe,7630702,2021787,Brikama Campus,Diploma in Education Islamic,,,,Region 2,Brikama nema,Brikama nema,Region 2,Brikama,Busumbala farato L.B.S
+TRUE,7/18/2021 1:19:59,Abdourahman,,Darboe,3345620,2022771,Brikama Campus,Advanced Diploma in Education Secondary,B,Science,Physical health education,Region 4,Pakaliba,Bureng upper and senior secondary school,Region 4,Pakaliba cluster,Bureng upper and senior secondary school
+TRUE,7/18/2021 2:01:01,BASIRU,,MANNEH,3340884,2022360,Brikama Campus,Advanced Diploma in Education Secondary,Group D,S.E.S,ENGLISH LANGUAGE,Region 2,Bakary Sambouya,Penyem UBS/SSS,Region 2,Brikama,Brikama UB/SSS
+TRUE,7/18/2021 2:16:49,MUHAMMED,,JOBE,2223829,20221110,Brikama Campus,Advanced Diploma in Education Secondary,I,AGRICULTURAL SCIENCE,SCIENCE,Region 3,OMAR CHOI,FASS UBS/SSS,Region 3,OMAR CHOI,KERR SANYANG BCS
+TRUE,7/18/2021 3:08:37,Alagie,,Fadera,3757102,2022278,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 2,,Scanaid Upper and Senior Secondary School,Region 2,,Brufut Upper and Senior Secondary School
+TRUE,7/18/2021 7:37:41,Juka,,Suso,7891232,2022189,Brikama Campus,Advanced Diploma in Education Secondary,General D,Home Science,English,Region 1,Latrikunda Sabiji: Safiyong Touray,Charles Jaw Memorial Academy,Region 2,Sukuta,Sukuta Upper Basic School
+TRUE,7/18/2021 9:31:54,Fatima,,Solley,6834687,20217006,Brikama Campus,Diploma in Education Islamic,B,,,Region 2,Gunjur,Gunjur lbs,Region 2,,Sefor lbs
+TRUE,7/18/2021 10:46:14,Haddy,,Faye,5260786,2021009,Brikama Campus,Diploma in Education Primary,I class,,,Region 2,Lamin wayeto,Jadus academy LBS,Region 2,Lamin kings,Babylonding basic cycle LBS
+TRUE,7/18/2021 11:54:34,Umar,,Saidy,2497349,2021367,Brikama Campus,Diploma in Education Primary,Class D,,,Region 1,yes,Bundung Lower Basic school,Region 1,,Latrikunda lower Basic school
+TRUE,7/18/2021 12:04:54,Abdoulie,,Bah,5892186,2022854,Brikama Campus,Advanced Diploma in Education Secondary,O,The English language,Agricultural Science,Region 2,,Mansa Colley Bojang,Region 2,,
+TRUE,7/18/2021 12:41:44,Wurry,,Baldeh,3541496,20221374,Brikama Campus,Advanced Diploma in Education Secondary,D,Home Science,English language,Region 1,St. Charles lwanga,Abuko U.B.S,Region 1,Latrikunda sabiji,Charles jaw memorial acedemic U.B.S
+TRUE,7/18/2021 12:56:27,Adam,,Baldeh,3110103,2022865,Brikama Campus,Advanced Diploma in Education Secondary,General L,SES,SCIENCE,Region 2,Banjulidung cluster,Banjulidung UBS,Region 2,Jabang cluster,Jabang
+TRUE,7/18/2021 13:01:21,ABDOULIE,,BALDEH,5271059,2022020,Brikama Campus,Advanced Diploma in Education Secondary,L,General Science,SES,Region 2,Brufut,Sukuta UB/SSS,Region 1,Latrikunda sabiji,Latrikunda sabiji UBS
+TRUE,7/18/2021 15:43:51,Isatou,,Nyang,5090837,2021345,Brikama Campus,Diploma in Education Islamic,C,Fiqh,Tawheed,Region 2,Old yundum,Old yundum LBS,Region 2,Old yundum,Sinchu Alhagi LBS
+TRUE,7/18/2021 15:51:31,Amadou,,Sanyang,5376188,2022889,Brikama Campus,Advanced Diploma in Education Secondary,General C,English,S.E.S,Region 1,Red1,Charles jow,Region 1,Red1,Carter basic cycle school
+TRUE,7/18/2021 18:54:57,Hawa,,Danso,7060995,20221331,Brikama Campus,Advanced Diploma in Education Secondary,General B,English,Science,Region 2,Brufut Cluster,Brusubi UB/SSS,Region 2,Old Yundum,Masroor SSS
+TRUE,7/18/2021 19:50:10,Mariama,,John,2007332,2021286,Brikama Campus,Diploma in Education Islamic,Group A,Quran,Fiqh,Region 2,Old cluster,Old yundum,Region 2,Old yundum cluster,Kungkujang keitya
+TRUE,7/18/2021 20:22:10,Fatoumata,S,Jallow,3023318,20221216,Brikama Campus,Advanced Diploma in Education Secondary,F,Physical health education,Mathematics,Region 4,Pakaliba,Pakaliba,Region 5,Mamudfana,Mamudfana
+TRUE,7/18/2021 21:23:30,Isatou,,Drammeh,2941016,2021703,Brikama Campus,Diploma in Education Islamic,,,,Region 1,Kanifing,St. Charles LBS,Region 1,Kanifing,Latri kunda Sabiji LBS
+TRUE,7/18/2021 21:39:46,Arohey,,Ceesay,5843764,2022364,Brikama Campus,Advanced Diploma in Education Secondary,General B,English,Science,Region 4,Soma Cluster,Soma UBS/SSS,Region 4,Soma Cluster,Pakalinding UBS
+TRUE,7/18/2021 22:50:30,Almameh,,Jallow,5926564,2022888,Brikama Campus,Advanced Diploma in Education Secondary,A,English,Agriculture,Region 2,Busumbala Farato,Yalding upper Basic School,Region 5,Jarreng,Dankunku upper Basic School
+TRUE,7/18/2021 22:52:28,Nyima,,Gibba,6406933,2021440,Brikama Campus,Diploma in Education Primary,Group 3,,,Region 2,Jamisa,Jamisa LBS,Region 2,Jamisa,Brikama Primary LBS
+TRUE,7/18/2021 23:28:42,Fatoumata,,Suso,5168125,2021036,Brikama Campus,Diploma in Education Primary,A,,,Region 1,Latrikunda Sabiji,Latrikunda Sabiji Annex,Region 1,Latrikunda Sabiji,Latrikunda Sabiji LBS
+TRUE,7/18/2021 23:31:20,Tairu,,Sonko,2771305,20221323,Brikama Campus,Advanced Diploma in Education Secondary,M,SES,PE,Region 2,Brufut,Alieubadara upper and senior school,Region 2,Banyaka cluster,Tujereng upper and senior secondary school
+TRUE,7/19/2021 10:12:49,Mbye,,Sallah,3246130,2022833,Brikama Campus,Advanced Diploma in Education Secondary,O,SES,PHE,Region 1,Antouman nying,Tallinding UBS,Region 1,Saihou jagne,Cater UBS
+TRUE,7/19/2021 13:14:27,Badgie,,Isatou,5127776,20221012,Brikama Campus,Advanced Diploma in Education Secondary,C,English language,SES,Region 2,Brikama cluster,Jamisa upper,Region 2,Banyaka cluster,Sanyang UBS
+TRUE,7/19/2021 14:03:02,Awa,,Jallow,7495235,20211006,Brikama Campus,Diploma in Education Primary,L,,,Region 1,,Bakoteh annex LBS,Region 1,,Sukuta LBS
+TRUE,7/19/2021 14:16:48,Fatou,,Sama,2359123,20211034,Brikama Campus,Diploma in Education Primary,L,,,Region 2,,Bakoteh annex LBS,Region 2,,Sukata LBS
+TRUE,7/19/2021 17:31:39,Fatou,,Ceesay,2320735,2022972,Brikama Campus,Advanced Diploma in Education Secondary,J,Home science,Science,Region 2,Brikama,Kabafita UBS,Region 2,Jamisa,Jamisa UBS
+TRUE,7/19/2021 18:21:14,susan,,sambou,3266240,20211467,Brikama Campus,Diploma in Education Primary,o class,,,Region 2,lamin daranka,kubuneh basic cycle school,Region 1,ST.therese 's lamin yaffa,ST.therese's lower basic school
+TRUE,7/19/2021 18:21:56,yankuba,,kambi,3049524,2021382,Brikama Campus,Diploma in Education Islamic,,,,Region 2,,Sinchu baliya LBS,Region 2,,Old yundum LBS
+TRUE,7/19/2021 21:09:48,Fatou,,Ceesay,2779144,20211206,Brikama Campus,Diploma in Education Primary,I class,,,Region 3,Essau cluster,ST . Mathews BCS,Region 3,Essau cluster,Medina Kanuma LBS
+TRUE,7/19/2021 21:15:34,Joy,Folasayo,Orimogunje,3017504/ 7342258,2022197,Brikama Campus,Advanced Diploma in Education Secondary,B,Home science,English,Region 1,ST Therese's : lamin yaffa,Grace bilingual upper basic school,Region 1,Bakau new town: Abubacarr Bah,Deeper life
+TRUE,7/19/2021 21:38:34,Sohna,,Lowe,3062038,2023192,Brikama Campus,Diploma in Early Childhood Education,Female,,,Region 3,Ousman Ndong,Yallal Tankonjala,Region 3,Ngaga keita,Farafenni mauritan
+TRUE,7/19/2021 22:06:03,Habibou,,Colley,3397760,2021607,Brikama Campus,Diploma in Education Primary,Class A,,,Region 4,Kwinella,Sibito Basic Cycle School,Region 5,Jerreng,Dalaba Lower Basic school
+TRUE,7/20/2021 0:25:10,Fatou,,Barry,5021576,2022970,Brikama Campus,Advanced Diploma in Education Secondary,General k,Science,PHE,Region 2,Brufut,Brusubi UB/SSS,Region 2,Busumbala Farato Cluster,Yunus
+TRUE,7/20/2021 2:05:59,Rabiatou,,Bah,5868446,20221340,Brikama Campus,Advanced Diploma in Education Secondary,B,English,Science,Region 2,Ndemban,You a basic cycle school,Region 2,Brufut cluster,Sukuta upper
+TRUE,7/20/2021 13:27:21,Abdoulie,,Jallow,3443075,20211282,Brikama Campus,Diploma in Education Primary,H class,,,Region 5,Sami,Sami pachonki,Region 5,Sami,Karantaba lower basic school
+TRUE,7/20/2021 13:53:45,Jarra,,Danso,3743825,2021128,Brikama Campus,Diploma in Education Primary,G Class,,,Region 1,Bundung,Bundung lower basic school,Region 1,Serrekunda,Serrekunda lower basic school
+TRUE,7/20/2021 15:47:26,Malick,,Sallah,5060071,2022357,Brikama Campus,Advanced Diploma in Education Secondary,I,Science,Agriculture,Region 2,Old yundum,Nema kunku UBS,Region 1,Kanifing,Kanifing East senior secondary school
+TRUE,7/20/2021 17:13:50,Ebrima,,Gaye,3416816,2022335,Brikama Campus,Advanced Diploma in Education Secondary,General C,SES,English language,Region 2,Brikama,Saamasang tech upper sen sch,Region 2,Brikama,Saamasang tech upper sen sch
+TRUE,7/20/2021 19:53:43,Rohe,,Cham,7226962,20211089,Brikama Campus,Diploma in Education Primary,J Class,,,Region 3,Kerewan,Bali Mandinka UBS,Region 3,Kerewan,Munyagen
+TRUE,7/20/2021 20:38:32,Mariama,,Saho,7149253,2022095,Brikama Campus,Advanced Diploma in Education Secondary,A,Agriculture Science,I.C.T,Region 2,Bakary Sambuoya,Penyem Upper and Senior Secondary school,Region 2,Brikama,Brikama Upper and Senior Secondary school
+TRUE,7/20/2021 22:33:05,Jarra,,Jarju,5921395,20211277,Brikama Campus,Diploma in Education Primary,F,,,Region 2,Bayanka,Sanyang LBS,Region 2,Bayanka,St viacent LBS
+TRUE,7/21/2021 0:45:21,ESSA,,NJIE,3866909,2022201,Brikama Campus,Advanced Diploma in Education Secondary,P,S.E.S,P.H.E,Region 3,cluster 8 MEDINA SERING MASS,MEDINA SERING MASS UBS/SSS,Region 3,cluster 9 ALBREDA,BAKALARR UBS/SSS
+TRUE,7/21/2021 10:30:32,Mariama,,Saidy,7998389,2021358,Brikama Campus,Diploma in Education Islamic,C class,,,Region 2,Banyaka,Tanji LBS,Region 2,Banyaka,Tanji LBS
+TRUE,7/21/2021 14:47:17,Bubacarr,,Sowe,3789587,2022937,Brikama Campus,Advanced Diploma in Education Secondary,N,Ses,Pe,Region 3,Essau,Essau sss,Region 2,OldYundum,Old Yundum UB/Sss
+TRUE,7/21/2021 18:09:58,Sait,,Ceesay,7741876,20211202,Brikama Campus,Diploma in Education Primary,F class,,,Region 2,Banyaka,Banyaka lower basics school,Region 2,,
+TRUE,7/21/2021 22:19:57,Matarr,,Jawo,3217975,2021360,Brikama Campus,Diploma in Education Islamic,D,,,Region 3,Central Badibou,Minteh Kunda Lower Basic School and Mariya Lower Basic School,Region 3,Central Badibou,Njaba Kunda Lower Basic School
+TRUE,7/21/2021 23:33:32,Oumie,,Cham,7158477,2021289,Brikama Campus,Diploma in Education Islamic,D Class,,,Region 2,Lamin Daranka,Babylon LBS. Lamin,Region 2,Lamin Daranka,Babylon LBS
+TRUE,7/22/2021 0:37:25,Adama,A.,Jawo,2264542,2021814,Brikama Campus,Diploma in Education Islamic,D class,,,Region 2,Furfut,Sanchaba (LBS),Region 2,Burfut,Sanchaba (LBS)
+TRUE,7/22/2021 7:07:45,Isatou,,Gibba,2997617,2021763,Brikama Campus,Diploma in Education Islamic,D,,,Region 2,Lamin Daranka,St Peter's LBS,Region 2,Lamin Daranka,Lamin Daranka LBS
+TRUE,7/22/2021 11:39:15,Alagie,N,Darboe,3245318,2022874,Brikama Campus,Advanced Diploma in Education Secondary,B,English language,Physical Health Education,Region 2,,Jamisa upper and senior secondary School,Region 2,,Penyem Technical upper and senior secondary School
+TRUE,7/22/2021 11:58:51,Ebou,,Njie,2973046,2022132,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agriculture,Region 5,Kaur,Jimbala. Basic Cycle School,Region 3,Ngain sanjal,Ngayen sanjal upper and senior secondary school
+TRUE,7/22/2021 13:02:16,Awa,,Ceesay,7235514,20217008,Brikama Campus,Diploma in Education Islamic,E class,,,Region 2,Sinchu baliya,Sinchu baliya LBS,Region 2,Wellingara,Wellingara LBS
+TRUE,7/22/2021 13:26:52,Jainaba,C,Sarr,3122788,20221024,Brikama Campus,Advanced Diploma in Education Secondary,J,Home science,Science,Region 2,Old yundum,Nema kunku UBS,Region 1,Westfield,Lk UBS
+TRUE,7/22/2021 14:15:53,SANNA,,SAMBOU,3732950,20221295,Brikama Campus,Advanced Diploma in Education Secondary,G,ARTS,PE,Region 2,Brikama,Saamasang Technical UB / SSS,Region 2,Brikama,Kabafita UB / SSS
+TRUE,7/22/2021 17:22:16,FATOUMATA,,KUYATEH,5369000,2021942,Brikama Campus,Diploma in Education Primary,B,,,Region 3,NIUMI,kerr amdou,Region 3,NIUMI,kunjata
+TRUE,7/22/2021 19:08:45,Anta,,Bah,5372428,20211593,Brikama Campus,Diploma in Education Primary,K class group four (4),,,Region 1,,New yudum primary,Region 1,,Scanh alghie
+TRUE,7/23/2021 0:07:28,Haruna,,Sey,7508528,20211295,Brikama Campus,Diploma in Education Primary,J class,,,Region 5,Karantaba,Karantaba l. B. S,Region 6,Kumbija,Kumbija l. B. S
+TRUE,7/23/2021 2:14:26,Lamin,,Camara,5027950,2021795,Brikama Campus,Diploma in Education Islamic,E,,,Region 2,,Kabafita Lower Basic School,Region 2,,Kembujeh Lower Basic School
+TRUE,7/23/2021 18:14:38,Lamin,M,Drammeh,6694843,2021398,Brikama Campus,Diploma in Education Islamic,,,,Region 1,,Madiana lower Basic school,Region 1,,Banyanka lower Basic school
+TRUE,7/23/2021 20:05:07,Mamadou,S,Jeng,5138008,2022145,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agric,Region 2,Lamin daranka,St.peter's,Region 2,Lamin daranka,Kombo kerewan UB/SSS
+TRUE,7/23/2021 21:22:59,Mariama,,Tamba,3110988,2021689,Brikama Campus,Diploma in Education Islamic,C,,,Region 3,Kuloro,Kuloro lower,Region 3,Kuloro,Kuloro lower
+TRUE,7/23/2021 22:11:15,Modou,,Ndure,5164029,2021940,Brikama Campus,Diploma in Education Primary,Class H/Group H,,,Region 2,,Madina Nemasu LBS,Region 2,,Busumballa Farato LBC
+TRUE,7/23/2021 23:44:18,Mustapha,,Bah,7725184,20221358,Brikama Campus,Advanced Diploma in Education Secondary,P,PE,SES,Region 5,7,Firdawsy upper And senior secondary School,Region 5,7,Niani senior secondary School
+TRUE,7/24/2021 1:12:53,Fatoumata,,Singhateh,2545145,20221372,Brikama Campus,Advanced Diploma in Education Secondary,L,SES,Science,Region 2,Jamisa cluster,Mansa Colley Bojang UBS,Region 2,Jamisa cluster,St Vincent UBS/SSS
+TRUE,7/24/2021 12:25:10,Isatou,,Fatty,7529030,2021341,Brikama Campus,Diploma in Education Islamic,E Class,,,Region 4,Kwinella,Wurokang Lower Basic School,Region 3,NjabaKunda,Salikenni Lower Basic School
+TRUE,7/24/2021 13:07:06,Malick,,Jobe,3922817,20211392,Brikama Campus,Diploma in Education Primary,M class,,,Region 2,Busumbala farato cluster,Busumbala farato lower basic school,Region 2,Fresh start cluster,Fresh start lawer basic school
+TRUE,7/24/2021 17:06:31,Seedia,,Barrow,5962851,2021990,Brikama Campus,Diploma in Education Primary,G,,,Region 4,Pakaliba,Barrow kunda lower basic school,Region 2,Brikama,Henrietta lower basic school
+TRUE,7/24/2021 17:11:35,Lamin,,Susso,3914706,2021614,Brikama Campus,Diploma in Education Primary,G,,,Region 1,Serekunda,Carter lower basic school,Region 2,Brikama,Henrietta lower basic school
+TRUE,7/24/2021 17:55:39,Tamsir,,Nyangado,3362604,20221184,Brikama Campus,Advanced Diploma in Education Secondary,I,Science,Agricultural science,Region 5,Kaur,Kaur senior secondary school,Region 5,Kaur,Kaur senior secondary school
+TRUE,7/24/2021 18:16:23,Sainabou,,Ndow,7697624,2021279,Brikama Campus,Diploma in Education Islamic,,Islamic,Islamic,Region 2,Jabang,Latriya LBS,Region 2,Jabang,Jabang LBS
+TRUE,7/24/2021 20:08:19,Sarjo,,Kanteh,5152011,2021253,Brikama Campus,Diploma in Education Primary,G,,,Region 2,Jalambang,Jalambang lower basic school,Region 4,Pakaliba,Sukuta lower basic school
+TRUE,7/24/2021 23:17:59,Rabiatou,,Jallow,5173077,20221149,Brikama Campus,Advanced Diploma in Education Secondary,P,SES,PHE,Region 4,Soma,Soma UB/SSS,Region 2,Lamin daranka,John Pickering UB/SSS
+TRUE,7/25/2021 12:32:10,Aramata,,Tunkara,2602589,2021556,Brikama Campus,Diploma in Education Primary,A,,,Region 4,,Soma Lower Basic School,Region 4,,Kaiaf Basic Cycle
+TRUE,7/25/2021 12:37:28,Therese,,Jammeh,3237161,20221186,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agricutural science,Region 2,Jamisa,Presentation of Mary BCS,Region 1,St Charles Lwanga,St Charles
+TRUE,7/25/2021 16:53:07,Ramata,,Faal,7643121,20211029,Brikama Campus,Diploma in Education Primary,K,,,Region 5,11,Simbara khai,Region 5,11,Simbara khai
+TRUE,7/25/2021 18:27:09,Tunko ,,Sanneh,3076398,2021221,Brikama Campus,Diploma in Education Primary,L class,,,Region 4,,Jarra Dasilameh lower basic school,Region 4,,Pakaliba
+TRUE,7/25/2021 20:55:24,Abdoulie,M,Jarju,7719902,20211324,Brikama Campus,Diploma in Education Primary,N,,,Region 2,New yundum,New yundum lower basic school,Region 2,Old yundum,Old yundum lower basic school
+TRUE,7/25/2021 21:42:20,Mam Astou,,Joof,3297625,2021129,Brikama Campus,Diploma in Education Primary,G,,,Region 1,Albion,Albion LBS,Region 1,Campama,Wasley
+TRUE,7/25/2021 22:31:00,Dam,,Njie,2499825,2022835,Brikama Campus,Advanced Diploma in Education Secondary,A,Agriculture,P.H.E,Region 5,Panchang,Panchang,Region 5,Panchang,Panchang
+TRUE,7/25/2021 23:29:08,Ebrima,,Saidyjah,3625274,20211082,Brikama Campus,Diploma in Education Primary,A,,,Region 2,Lamin daranka,Lamin daranka LBS,Region 2,Lamin daranka,Lamin daranka LBS
+TRUE,7/26/2021 0:40:50,Aminata,,Sowe,3343513,2021797,Brikama Campus,Diploma in Education Islamic,D class,,,Region 2,Gunjur,Gunjur Madina Kunkunding (LBS),Region 2,Gunjur,Gunjur (LBS)
+TRUE,7/26/2021 18:58:12,Salimatou,,Jarju,5859519,2022816,Brikama Campus,Advanced Diploma in Education Secondary,K,G science,PHE,Region 2,Babjulinding,Yundum barracks UBS,Region 2,Brufut,Brosubi U/SSS
+TRUE,7/26/2021 20:38:36,MUSUKOI,,SANNEH,2632334,20211245,Brikama Campus,Diploma in Education Primary,H,,,Region 2,BUSUMBALA FARATO,MEDINA NEMASU LBS,Region 2,BUSUMBALA FARATO,YALDING LBS
+TRUE,7/26/2021 21:26:45,Fanta,,Camara,3256419,20217004,Brikama Campus,Diploma in Education Islamic,,,,Region 2,Brikama,Kabafita,Region 2,Brikama,Kabafita
+TRUE,7/26/2021 21:45:01,Isatou,,Saho,3612999,2021858,Brikama Campus,Diploma in Education Primary,O,,,Region 3,Lamin s jawara,Dura fobeba,Region 2,,Lamin Daranka
+TRUE,7/27/2021 0:37:53,Mod ,,Faal,5954405,20221092,Brikama Campus,Advanced Diploma in Education Secondary,P,S.e.s,P.e,Region 3,Ebrima jarra,Sinchu njabo upper and senior secondary School,Region 2,Busumbala farato,New Yundum upper basic school
+TRUE,7/27/2021 7:20:59,Fanta,,Ceesay,3258252,2021908,Brikama Campus,Diploma in Education Primary,D,,,Region 2,,Lamin Daranka,Region 3,Lamin s jawara,Dura fobeba
+TRUE,7/27/2021 14:04:26,Salimat,K,Cham,3449883,2022772,Brikama Campus,Advanced Diploma in Education Secondary,B,SES,PHE,Region 4,Pakaliba,Jappineh upper basic and senior secondary school,Region 2,Sibanor,Sibanor upper basic and senior secondary school
+TRUE,7/27/2021 15:46:24,Bubacarr,,Ceesay,2581811,20221208,Brikama Campus,Advanced Diploma in Education Secondary,H,General science,Agricultural science,Region 2,Jamisa,Mahad senior secondary school,Region 2,Busumbala farato,New yundum upper basic school
+TRUE,7/27/2021 22:48:05,Ali,,Cessay,2933456,20221315,Brikama Campus,Advanced Diploma in Education Secondary,P,S.e.s,P.e,Region 3,Ebrima jarra,Sinchu njabo upper and senior secondary School,Region 2,Busumbala farato,New Yundum upper basic school
+TRUE,7/27/2021 23:42:34,Alieu,,Jonga,2396261,20211309,Brikama Campus,Diploma in Education Primary,Gclass,,,Region 2,Banjulinding,Kunkujank keitaya LBS,Region 2,Banjulinding,Banjulinding LBS
+TRUE,7/27/2021 23:55:32,Almameh,,Drammeh,3446933,2021776,Brikama Campus,Diploma in Education Islamic,C class,,,Region 2,All,Madiana,Region 2,All,Banyaka
+TRUE,7/28/2021 11:41:14,kawsu,s,naban,5316602,20211405,Brikama Campus,Diploma in Education Primary,class o,english,english,Region 2,brikama,kabafita l. b .s,Region 2,brikama,kabafita l.b.s
+TRUE,7/28/2021 15:04:55,Ali,,Skaff,7541185,2022367,Brikama Campus,Advanced Diploma in Education Secondary,J,ICT,Science,Region 4,Soma,Tahir Ahmaddiya UBS,Region 4,Soma,Tahir Ahmaddiya SSS
+TRUE,7/28/2021 18:31:42,Jainaba,,Kanteh,3977450,2022768,Brikama Campus,Advanced Diploma in Education Secondary,B,Phe,English,Region 2,Sibanor,Sibanor ub/sss,Region 3,Essau,Barra essau upp
+TRUE,7/28/2021 18:50:59,Hawa,,Sonko,2864076,2021683,Brikama Campus,Diploma in Education Islamic,E,IRk,,Region 2,Barikama,Kembujeh LBS,Region 2,Jamisa,Jamisa LBS
+TRUE,7/28/2021 22:53:02,Yusupha,,Sidibeh,2030656,20211044,Brikama Campus,Diploma in Education Primary,K class,,,Region 2,Faraba bantang,Kafuta lower basic school,Region 2,Faraba bantang,Tumani tenda basic cycle school
+TRUE,7/28/2021 23:35:52,Maimuna,,Badjie,3663819,2022287,Brikama Campus,Advanced Diploma in Education Secondary,I,G/science,Agricultural science,Region 2,Sibanor cluster,Arangallen BCS,Region 2,Sibanor cluster,Tamba kunda BCS
+TRUE,7/29/2021 0:03:28,Saffie,,Sisawo,6853504,2023339,Brikama Campus,Diploma in Early Childhood Education,A Class,,,Region 2,,Gambia College 'Buganala' ECD & LBS,Region 2,,Kabafita Kindergarten
+TRUE,7/29/2021 13:10:46,Fatou,,Jammeh,7067091,20211164,Brikama Campus,Diploma in Education Primary,,,,Region 2,Gunjur,Gunjur lower basic school,Region 2,Gunjur,Gunjur lower basic school
+TRUE,7/29/2021 16:57:00,Kura,H,Jallow,3076699,2021586,Brikama Campus,Diploma in Education Primary,H class,,,Region 3,Farafenni,St. John the Baptist basic cycle school,Region 5,Brikama,Jamisa lower basic school
+TRUE,7/29/2021 19:32:33,Ansumana,D,Jaiteh,3517368,20221286,Brikama Campus,Advanced Diploma in Education Secondary,K,General SCIENC,PHE,Region 4,SOMA cluster,TAHIR UB/SSS,Region 4,SOMA CLUSTER,PAKALINDING UBS
+TRUE,7/29/2021 21:07:37,Serreh,,Samateh,3577276,2021153,Brikama Campus,Diploma in Education Primary,K,,,Region 2,Banjulinding,Banjulinding lower basic school,Region 1,Kebba manneh,Abuko lower basic school
+TRUE,7/31/2021 19:14:50,Sainey,,Jambo,7634866,2021403,Brikama Campus,Diploma in Education Primary,F,,,Region 6,Kabiru Darboe,Dampha kunda BCS,Region 6,Kabiru Darboe,Kiskis LBS
+TRUE,7/31/2021 21:38:01,Ramatoulie,,Secka,7933120,2021373,Brikama Campus,Diploma in Education Islamic,E,,,Region 1,Serrekunda,Serrekunda LBS,Region 1,Tallinding annx,ABC LBS
+TRUE,7/31/2021 22:08:42,Zainabou,,Jaiteh,7301927,2021387,Brikama Campus,Diploma in Education Islamic,C,,,Region 2,Brikama,Kabafita LBS,Region 2,Brikama,Henriette LBS
+TRUE,7/31/2021 22:18:50,Isatou,,Nyassi,3352597,20221018,Brikama Campus,Advanced Diploma in Education Secondary,H,Agricultural Science,Science,Region 1,St. Charles Lwanga: kebba Manneh,St. Charles Lwanga UBS,Region 1,St. Charles Lwanga: Kebba Manneh,St. Charles Lwanga UBS
+TRUE,7/31/2021 23:10:19,Habbi,,Bah,3720520,20221000,Brikama Campus,Advanced Diploma in Education Secondary,Group H,General Science,Agricultural Science,Region 2,Jambanjelly cluster,Jambanjelly Upper Basic School,Region 2,Jambanjelly cluster,St Francise Upper and Senior Secondary School Kunkujang Mariama Villagel
+TRUE,8/1/2021 2:04:33,Mustapha,,Jammeh,3121180,20211310,Brikama Campus,Diploma in Education Primary,G class,,,Region 1,13,Bundung lower basic school,Region 1,13,Bundung annex lower basic school
+TRUE,8/1/2021 16:10:44,Binta,S,Kinteh,3115201,2023229,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 2,,Abba bilingual international,Region 1,,Alagie school
+TRUE,8/1/2021 18:30:52,Isatou,,Ceesay,3141604,20211127,Brikama Campus,Diploma in Education Primary,Group G,,,Region 2,Brikama,Hendrian,Region 2,Brikama,Hendrian
+TRUE,8/1/2021 21:21:32,Rokey,,Jallow,7396728,2021842,Brikama Campus,Diploma in Education Primary,Group 5,,,Region 4,2,Soma new town LBS,Region 2,,Jamisa LBS
+TRUE,8/1/2021 23:38:05,Mustapha,,Gaye,3447628,2022334,Brikama Campus,Advanced Diploma in Education Secondary,Group O,S.E.S,P.H.E,Region 2,Jamisa,Jamisa upper basic school,Region 2,Brikama,Brikama upper
+TRUE,8/2/2021 12:37:20,Rohey,,Jawo,2743506,2023086,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 2,,Young farm nursery school,Region 2,,Young farm nursery school
+TRUE,8/2/2021 13:15:11,Isatou,Y,Sanyang,2201869,20211345,Brikama Campus,Diploma in Education Primary,H,,,Region 4,Kiang karantaba,Manduar basic cycle,Region 4,Kiang karantaba,Kiang Karantaba LBS
+TRUE,8/2/2021 13:25:06,Boido Oumie,,Jallow,3114685,20211431,Brikama Campus,Diploma in Education Primary,O,,,Region 4,Soma,Kanni kunda lower basic school,Region 5,Bansang,Bansang lower basic school
+TRUE,8/2/2021 17:03:29,Mama,,Saidykhan,3347899,2021745,Brikama Campus,Diploma in Education Islamic,A,,,Region 1,Tallinding Annex,Tallinding Annex LBS,Region 2,Lamin Daranka,Lamin Daranka LBS
+TRUE,8/2/2021 18:58:30,Amie,,Touray,2935901,2022753,Brikama Campus,Advanced Diploma in Education Secondary,H,Science,Agriculture,Region 3,Mr Sallah,Medina Saring Mass UBS/SSS,Region 3,Pa Sallah,Kerr Cherno UBS SSS
+TRUE,8/2/2021 19:54:23,Modou lamin,,Gaye,3464824,2021984,Brikama Campus,Diploma in Education Primary,,,,Region 2,Busumbala farato,Yalding BCS,Region 2,Busumbala farato,Busumbala farato LBS
+TRUE,8/2/2021 22:19:09,Momodou,B,Jallow,3674976,20211263,Brikama Campus,Diploma in Education Primary,I class room 9,,,Region 2,Sibanor,St.Edward's LBS,Region 2,Faraba banta,Kafuta LBS
+TRUE,8/3/2021 0:32:26,Momodou,Alpha,Sey,2968486,20211407,Brikama Campus,Diploma in Education Primary,Class room9,,,Region 2,Bakary Sambuya,Bakary Sambuya LBS,Region 2,Sibanor,Sibanor LBS
+TRUE,8/3/2021 15:02:46,Isatou,,Sanno,3458525,20211337,Brikama Campus,Diploma in Education Primary,G,,,Region 2,Brufut,Sukuta lower,Region 1,Latri kunda sabiji,Bundung lower
+TRUE,8/3/2021 16:40:20,Isatou,,Sowe,5398781,20211120,Brikama Campus,Diploma in Education Primary,J,,,Region 3,Ndungu kebbeh,Ndungu kebbeh LBS,Region 3,Medina,Kerr mama BSC
+TRUE,8/4/2021 1:20:31,Abdou,Karim,Jallow,5101072,2021916,Brikama Campus,Diploma in Education Primary,N class Staff Room 1,,,Region 3,Medina,Kerr cherno L.b.s,Region 3,Medina,Kerr cherno L.bs
+TRUE,8/4/2021 1:37:46,ISATOU,,KUJABIE,3494056,20221223,Brikama Campus,Advanced Diploma in Education Secondary,I,SCIENCE,AGRICULTURAL SCIENCE,Region 2,NYAMBAI CLUSTER,MANSA COLLEY UBS,Region 2,BRIKAMA CLUSTER,KABAFITA UBS/SSS
+TRUE,8/4/2021 11:40:58,Mamudou,,Jallow,3639576,2023361,Brikama Campus,Diploma in Early Childhood Education,D,,,Region 2,Sanchaba sulay,Lybert preparatory,Region 2,Sanchaba sulay,Lybert preparatory
+TRUE,8/4/2021 11:49:34,Maimuna,,Barry,3501099,2023087,Brikama Campus,Diploma in Early Childhood Education,A,,,Region 2,Gunjur,Kenali,Region 2,Keti,Souba LBS
+TRUE,8/4/2021 13:42:51,Isatou,,Sanyang,5854990,2023094,Brikama Campus,Diploma in Early Childhood Education,A class,,,Region 2,Madina,Bakary Sambouya community nursery,Region 2,Madina,Bakary Sambouya community nursery
+TRUE,8/4/2021 20:27:23,Fatou,,Ndow,7140692,2021608,Brikama Campus,Diploma in Education Primary,K class,,,Region 5,,Sinchu alasand lower basic school,Region 6,,Nyanga bantang basic school
+TRUE,8/5/2021 17:39:55,Mariama,,Mbaye,3680205,2022513,Brikama Campus,Advanced Diploma in Education Secondary,Group M,SES,Science,Region 5,,Japinneh Basic Cycle School,Region 5,,Pakaliba Upper Basic School
+TRUE,8/5/2021 17:51:33,Buya,,Baldeh,3788033,2023141,Brikama Campus,Diploma in Early Childhood Education,D,,,Region 2,Faraba,Good shepherd,Region 2,Faraba,Zilia
+TRUE,8/5/2021 22:57:51,Haddy,Modou,Cham,2977685,2021331,Brikama Campus,Diploma in Education Islamic,E class,,,Region 1,Serekunda,Tallingding,Region 1,Tallingding,Seven days advantage (SDA)
+TRUE,8/6/2021 14:13:36,Mariama,,Jallow,5050967,20211437,Brikama Campus,Diploma in Education Primary,M,,,Region 1,St. Charles L'wanga,St. Charles L'wanga Lbs,Region 1,Latrikunda Sabiji,Latrikunda Sabiji lbs
+TRUE,8/6/2021 19:09:06,Muntaga ,,Jammeh,7208687,2022229,Brikama Campus,Advanced Diploma in Education Islamic,E,,,Region 2,,Brufut upper,Region 2,,Alieu Badre
+TRUE,8/7/2021 1:10:05,Zainab,,Kinteh,2230174,2021386,Brikama Campus,Diploma in Education Islamic,E,,,Region 2,Old yumdum,Sinchu baliya LBS,Region 2,Old yumdum,Nema kunku LBS
+TRUE,8/7/2021 16:04:59,Sunkary,,Fofana,3633464,2023244,Brikama Campus,Diploma in Early Childhood Education,C,,,Region 1,Fajikunda,Rex nursery,Region 1,Talinding,Zibah nursery
+TRUE,8/7/2021 22:06:48,Ousman,,Jallow,3730019 or 7842345,2021978,Brikama Campus,Diploma in Education Primary,K class,,,Region 3,Cluster 7 Dungu kebbeh,Kabakoto basic cycle school,Region 1,Old jeswang,Old jeswang Simon boliva lower basic school
+TRUE,8/8/2021 1:56:20,Isatou,E,Colley,3458502,2021209,Brikama Campus,Diploma in Education Primary,H,,,Region 2,Marakissa,Marakissa Lower Basic School,Region 2,Bakarysambouya,Bakarysambouya Lower Basic School
+TRUE,8/8/2021 19:45:11,TAFSIRU,,Sallah,3956840,20211334,Brikama Campus,Diploma in Education Primary,L class,,,Region 4,,Missera B C S,Region 4,,Sotokoi Toranka Bantang
+TRUE,8/9/2021 0:17:25,Hawa,,Darboe,7064567,20211113,Brikama Campus,Diploma in Education Primary,,,,Region 2,Banyaka,Sanyang lower basic school,Region 2,Banyaka,Jambajelly lower basic school
+TRUE,8/9/2021 16:11:45,Catia,Silvi,Mario N'hatena,2379269,2121003,Brikama Campus,Diploma in Education Primary,,,,Region 2,Brikama,Deeper life LBS,Region 2,Brikama,Deeper life LBS
+TRUE,8/10/2021 0:57:37,Momodou,Jang,Bah,7609564,2021856,Brikama Campus,Diploma in Education Primary,H,,,Region 1,Ousman sowe,Bakoteh LBS,Region 1,Ousman sowe,The swallow
