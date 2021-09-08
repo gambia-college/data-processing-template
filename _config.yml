@@ -17,7 +17,7 @@ collections_dir: my_collections
 collections:
   programmes:
     output: true
-    permalink: /gc-journal/memos-2021-09-07/programmes/:name/
+    permalink: /gc-journal/memos-2021-09-08/programmes/:name/
 
 ## ADD other settings below here
 plugins:
@@ -31,4 +31,4 @@ page_gen:
   - data: 'students-postings'
     template: 'student'
     name: 'gc'
-    dir: '21-09-07-students'
+    dir: 'students'
