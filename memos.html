@@ -6,3 +6,62 @@ title: Postings
     All memos regardless of the programme
 </h1>
 
+<table id="table_posting" class="data-table">
+    <thead>
+        <tr>
+            <th>check</th>
+            <th>
+                LAST NAME
+            </th>
+            <th>
+                INIT
+            </th>
+            <th>
+                FIRST NAME
+            </th>
+            <th>
+                GC NUMBER
+            </th>
+            <th>
+                PHONE
+            </th>
+            <th>
+                PROGRAMME
+            </th>
+            <th>
+                MEMO
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for grade in site.data.students-postings %}
+
+        <tr>
+            <td>grade.check</td>
+            <td class="blur">
+                {{ grade.stu-last }}
+            </td>
+            <td class="blur">
+                {{ grade.initial }}
+            </td>
+            <td>
+                {{ grade.stu-name }}
+            </td>
+            <td>
+                {{ grade.gc }}
+            </td>
+            <td>
+                {{ grade.phone}}
+            </td>
+            <td>
+                {{ grade.programme }}
+            </td>
+            <td>
+                <a class="btn" href="{{ grade.gc | datapage_url: '/gc-journal/memos-2021-09-20/students' }}">
+                    View Memo
+                </a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
