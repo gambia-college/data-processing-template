@@ -34,30 +34,32 @@ title: Postings
         </tr>
     </thead>
     <tbody>
-        {% for grade in site.data.students-postings %}
+        {% for student in site.data.students-postings %}
 
         <tr>
-            <td>grade.check</td>
+            <td>
+                {{ student.check }}
+            </td>
             <td class="blur">
-                {{ grade.stu-last }}
+                {{ student.stu-last }}
             </td>
             <td class="blur">
-                {{ grade.initial }}
+                {{ student.initial }}
             </td>
             <td>
-                {{ grade.stu-name }}
+                {{ student.stu-name }}
             </td>
             <td>
-                {{ grade.gc }}
+                {{ student.gc }}
             </td>
             <td>
-                {{ grade.phone}}
+                {{ student.phone}}
             </td>
             <td>
-                {{ grade.programme }}
+                {{ student.programme }}
             </td>
             <td>
-                <a class="btn" href="{{ grade.gc | datapage_url: '/gc-journal/memos-2021-09-20/students' }}">
+                <a class="btn" href="{{ student.gc | datapage_url: '/gc-journal/memos-2021-09-20/students' }}">
                     View Memo
                 </a>
             </td>
