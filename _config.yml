@@ -17,7 +17,7 @@ collections_dir: my_collections
 collections:
   programmes:
     output: true
-    permalink: /gc-journal/memos-2021-09-24/programmes/:name/
+    permalink: /gc-journal/memos-2021-09-28/programmes/:name/
 
 ## ADD other settings below here
 plugins:
